@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1048065319,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T11:46:59Z",
+                "last_commit": "2026-08-20T01:20:51Z",
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 91222
+                "stars": 91279
               }
             },
             {
@@ -48,7 +48,22 @@
                 "last_commit": "2026-08-18T15:51:45Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63590
+                "stars": 63635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenViking [code",
+              "description": "] Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1128123594,
+                "language": "Python",
+                "last_commit": "2026-08-20T03:32:42Z",
+                "owner": "volcengine",
+                "repo": "OpenViking",
+                "stars": 30374
               }
             },
             {
@@ -60,10 +75,10 @@
                 "archived": false,
                 "id": 679343504,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:41:21Z",
+                "last_commit": "2026-08-19T21:02:32Z",
                 "owner": "topoteretes",
                 "repo": "cognee",
-                "stars": 30112
+                "stars": 30133
               }
             },
             {
@@ -78,22 +93,7 @@
                 "last_commit": "2026-08-18T16:24:04Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30085
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OpenViking [code",
-              "description": "] Self-evolving context database for AI agents that unifies agent memory, knowledge RAG, and skills behind one storage/retrieval layer, with an MCP server for cross-session read/write.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1128123594,
-                "language": "Python",
-                "last_commit": "2026-08-19T11:42:54Z",
-                "owner": "volcengine",
-                "repo": "OpenViking",
-                "stars": 29814
+                "stars": 30112
               }
             },
             {
@@ -105,10 +105,10 @@
                 "archived": false,
                 "id": 1202057891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T05:17:25Z",
+                "last_commit": "2026-08-19T23:12:23Z",
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 28733
+                "stars": 28767
               }
             },
             {
@@ -123,7 +123,7 @@
                 "last_commit": "2026-08-17T06:12:00Z",
                 "owner": "rohitg00",
                 "repo": "agentmemory",
-                "stars": 27176
+                "stars": 27192
               }
             },
             {
@@ -138,7 +138,7 @@
                 "last_commit": "2026-08-16T03:56:11Z",
                 "owner": "letta-ai",
                 "repo": "letta",
-                "stars": 24299
+                "stars": 24307
               }
             },
             {
@@ -153,7 +153,7 @@
                 "last_commit": "2026-08-15T10:06:58Z",
                 "owner": "TencentCloud",
                 "repo": "TencentDB-Agent-Memory",
-                "stars": 23144
+                "stars": 23271
               }
             },
             {
@@ -165,25 +165,25 @@
                 "archived": false,
                 "id": 1086419061,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:01:47Z",
+                "last_commit": "2026-08-20T03:34:02Z",
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 20253
+                "stars": 20294
               }
             },
             {
               "node_type": "item",
               "title": "Context Mode [code",
-              "description": "] Context-window optimization for AI coding agents — diverts large tool outputs into a locally searchable store and persists session memory across agent platforms via MCP and hooks.",
+              "description": "] Context-window optimization for AI coding agents: diverts large tool outputs into a locally searchable store and persists session memory across platforms via MCP and hooks.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1164477708,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T12:25:37Z",
+                "last_commit": "2026-08-19T12:25:41Z",
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 19975
+                "stars": 19993
               }
             },
             {
@@ -198,7 +198,7 @@
                 "last_commit": "2025-09-30T00:44:34Z",
                 "owner": "mindverse",
                 "repo": "Second-Me",
-                "stars": 15668
+                "stars": 15665
               }
             },
             {
@@ -210,10 +210,10 @@
                 "archived": false,
                 "id": 1028070615,
                 "language": "Python",
-                "last_commit": "2026-08-18T13:08:58Z",
+                "last_commit": "2026-08-19T15:54:22Z",
                 "owner": "NevaMind-AI",
                 "repo": "memU",
-                "stars": 14321
+                "stars": 14325
               }
             },
             {
@@ -228,7 +228,7 @@
                 "last_commit": "2026-08-17T11:51:02Z",
                 "owner": "EverMind-AI",
                 "repo": "EverOS",
-                "stars": 12190
+                "stars": 12219
               }
             },
             {
@@ -243,27 +243,27 @@
                 "last_commit": "2026-08-19T06:52:16Z",
                 "owner": "MemTensor",
                 "repo": "MemOS",
-                "stars": 10794
+                "stars": 10817
               }
             },
             {
               "node_type": "item",
               "title": "Honcho [code",
-              "description": "] [research] [blog] [evals] Memory library for stateful agents with a focus on user modeling.",
+              "description": "] [research] [blog] [eval] Memory library for stateful agents with a focus on user modeling.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 689777286,
                 "language": "Python",
-                "last_commit": "2026-08-18T18:47:10Z",
+                "last_commit": "2026-08-19T20:24:54Z",
                 "owner": "plastic-labs",
                 "repo": "honcho",
-                "stars": 6721
+                "stars": 6734
               }
             },
             {
               "node_type": "item",
-              "title": "engram [code",
+              "title": "engram (by Gentleman-Programming) [code",
               "description": "] Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI.",
               "children": [],
               "repo_info": {
@@ -273,7 +273,7 @@
                 "last_commit": "2026-08-17T13:39:22Z",
                 "owner": "Gentleman-Programming",
                 "repo": "engram",
-                "stars": 6060
+                "stars": 6078
               }
             },
             {
@@ -285,10 +285,10 @@
                 "archived": false,
                 "id": 1059963716,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:35:15Z",
+                "last_commit": "2026-08-20T03:34:57Z",
                 "owner": "SuanmoSuanyangTechnology",
                 "repo": "MemoryBear",
-                "stars": 4991
+                "stars": 4998
               }
             },
             {
@@ -303,7 +303,7 @@
                 "last_commit": "2026-08-09T04:50:52Z",
                 "owner": "CortexReach",
                 "repo": "memory-lancedb-pro",
-                "stars": 4464
+                "stars": 4463
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-19T08:25:36Z",
                 "owner": "CaviraOSS",
                 "repo": "OpenMemory",
-                "stars": 4448
+                "stars": 4452
               }
             },
             {
@@ -333,7 +333,7 @@
                 "last_commit": "2026-08-18T04:49:35Z",
                 "owner": "Mirix-AI",
                 "repo": "MIRIX",
-                "stars": 3433
+                "stars": 3434
               }
             },
             {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 1038686658,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:30:37Z",
+                "last_commit": "2026-08-19T18:59:05Z",
                 "owner": "MemMachine",
                 "repo": "MemMachine",
-                "stars": 3178
+                "stars": 3191
               }
             },
             {
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 1190042495,
                 "language": "Python",
-                "last_commit": "2026-08-18T19:51:01Z",
+                "last_commit": "2026-08-19T20:48:13Z",
                 "owner": "moorcheh-ai",
                 "repo": "memanto",
-                "stars": 1816
+                "stars": 1823
               }
             },
             {
@@ -393,7 +393,7 @@
                 "last_commit": "2026-08-11T00:18:37Z",
                 "owner": "langchain-ai",
                 "repo": "langmem",
-                "stars": 1618
+                "stars": 1619
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-19T10:21:49Z",
                 "owner": "mem9-ai",
                 "repo": "mem9",
-                "stars": 1188
+                "stars": 1190
               }
             },
             {
@@ -435,10 +435,10 @@
                 "archived": false,
                 "id": 1207219415,
                 "language": "Rust",
-                "last_commit": "2026-08-19T00:53:21Z",
+                "last_commit": "2026-08-19T20:40:51Z",
                 "owner": "ModernRelay",
                 "repo": "omnigraph",
-                "stars": 1065
+                "stars": 1068
               }
             },
             {
@@ -453,7 +453,7 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 943
+                "stars": 953
               }
             },
             {
@@ -465,10 +465,10 @@
                 "archived": false,
                 "id": 1093180734,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:04:44Z",
+                "last_commit": "2026-08-20T03:33:43Z",
                 "owner": "oceanbase",
                 "repo": "powercontext",
-                "stars": 878
+                "stars": 879
               }
             },
             {
@@ -489,7 +489,7 @@
             {
               "node_type": "item",
               "title": "projectmem [code",
-              "description": "] [docs] [paper] Local-first, event-sourced memory and judgment layer for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix.",
+              "description": "] [docs] [paper] Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,22 +498,7 @@
                 "last_commit": "2026-08-06T01:49:30Z",
                 "owner": "riponcm",
                 "repo": "projectmem",
-                "stars": 744
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Memorix [code",
-              "description": "] Local-first cross-agent memory layer for coding agents via MCP — SQLite-backed project memory with observation, reasoning, and git-derived fact types, plus task-lensed context briefs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1157705791,
-                "language": "TypeScript",
-                "last_commit": "2026-08-19T04:24:49Z",
-                "owner": "AVIDS2",
-                "repo": "memorix",
-                "stars": 664
+                "stars": 745
               }
             },
             {
@@ -528,7 +513,22 @@
                 "last_commit": "2026-08-05T12:38:59Z",
                 "owner": "Shadow-Weave",
                 "repo": "HMS",
-                "stars": 661
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memorix [code",
+              "description": "] Local-first cross-agent memory layer for coding agents via MCP — SQLite-backed project memory with observation, reasoning, and git-derived fact types, plus task-lensed context briefs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157705791,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T04:24:49Z",
+                "owner": "AVIDS2",
+                "repo": "memorix",
+                "stars": 665
               }
             },
             {
@@ -540,7 +540,7 @@
                 "archived": false,
                 "id": 1141662059,
                 "language": "Rust",
-                "last_commit": "2026-08-12T20:35:40Z",
+                "last_commit": "2026-08-20T03:22:40Z",
                 "owner": "samvallad33",
                 "repo": "vestige",
                 "stars": 607
@@ -570,10 +570,10 @@
                 "archived": false,
                 "id": 1222639711,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:34:34Z",
+                "last_commit": "2026-08-19T23:08:23Z",
                 "owner": "caura-ai",
                 "repo": "caura",
-                "stars": 433
+                "stars": 435
               }
             },
             {
@@ -585,10 +585,10 @@
                 "archived": false,
                 "id": 1224734286,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:53:25Z",
+                "last_commit": "2026-08-20T01:55:00Z",
                 "owner": "Ikalus1988",
                 "repo": "MisakaNet",
-                "stars": 409
+                "stars": 411
               }
             },
             {
@@ -603,7 +603,7 @@
                 "last_commit": "2026-08-18T18:00:03Z",
                 "owner": "smaramwbc",
                 "repo": "statewave",
-                "stars": 316
+                "stars": 320
               }
             },
             {
@@ -618,7 +618,7 @@
                 "last_commit": "2026-08-16T12:01:14Z",
                 "owner": "fpytloun",
                 "repo": "mnemory",
-                "stars": 269
+                "stars": 270
               }
             },
             {
@@ -660,10 +660,10 @@
                 "archived": false,
                 "id": 1150677698,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:00:55Z",
+                "last_commit": "2026-08-20T03:33:15Z",
                 "owner": "joshuaswarren",
                 "repo": "remnic",
-                "stars": 170
+                "stars": 171
               }
             },
             {
@@ -684,7 +684,7 @@
             {
               "node_type": "item",
               "title": "taOSmd [code",
-              "description": "] [benchmarks] Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models.",
+              "description": "] [eval] Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,10 +720,10 @@
                 "archived": false,
                 "id": 1261564890,
                 "language": "Rust",
-                "last_commit": "2026-08-19T03:53:49Z",
+                "last_commit": "2026-08-19T14:52:22Z",
                 "owner": "Perseus-Computing-LLC",
                 "repo": "perseus-vault",
-                "stars": 50
+                "stars": 51
               }
             },
             {
@@ -750,25 +750,10 @@
                 "archived": false,
                 "id": 1215417088,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:48:15Z",
+                "last_commit": "2026-08-20T02:53:38Z",
                 "owner": "7xuanlu",
                 "repo": "wenlan",
                 "stars": 47
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "memclaw (Felo) [code",
-              "description": "] Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1192229891,
-                "language": "JavaScript",
-                "last_commit": "2026-04-23T07:54:43Z",
-                "owner": "Felo-Inc",
-                "repo": "memclaw",
-                "stars": 38
               }
             },
             {
@@ -783,6 +768,21 @@
                 "last_commit": "2026-08-19T07:35:34Z",
                 "owner": "JanYork",
                 "repo": "llm-wiki-cli",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "memclaw (Felo) [code",
+              "description": "] Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192229891,
+                "language": "JavaScript",
+                "last_commit": "2026-04-23T07:54:43Z",
+                "owner": "Felo-Inc",
+                "repo": "memclaw",
                 "stars": 38
               }
             },
@@ -813,7 +813,7 @@
                 "last_commit": "2026-08-12T04:29:30Z",
                 "owner": "knaisoma",
                 "repo": "data-olympus",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -840,7 +840,7 @@
                 "archived": false,
                 "id": 1207193530,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:10:19Z",
+                "last_commit": "2026-08-19T17:28:03Z",
                 "owner": "mnemoverse",
                 "repo": "mcp-memory-server",
                 "stars": 20
@@ -870,7 +870,7 @@
                 "archived": false,
                 "id": 1239425677,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T01:15:57Z",
+                "last_commit": "2026-08-19T20:19:48Z",
                 "owner": "Das-rebel",
                 "repo": "a3m-router",
                 "stars": 14
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "Agentic Task System [code",
-              "description": "] [npm] Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters.",
+              "description": "] Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,6 +923,36 @@
             },
             {
               "node_type": "item",
+              "title": "InvMem [code",
+              "description": "] Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1323121740,
+                "language": "Python",
+                "last_commit": "2026-08-11T04:18:21Z",
+                "owner": "wenxiaof345-ctrl",
+                "repo": "vanilla-rag-memory",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReFind [code",
+              "description": "] Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1326634423,
+                "language": "Python",
+                "last_commit": "2026-08-14T02:33:15Z",
+                "owner": "imlrz",
+                "repo": "ReFind",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
               "title": "FluctlightDB [code",
               "description": "] [paper] Embedded database engine for AI agents with / API and reproducible LoCoMo evaluation.",
               "children": [],
@@ -933,36 +963,6 @@
                 "last_commit": "2026-08-15T08:01:10Z",
                 "owner": "voxmastery",
                 "repo": "FluctlightDB",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ReFind [code",
-              "description": "] Agentic long-term memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2 on the Agent Memory Leaderboard academic textual track (2026-08).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1326634423,
-                "language": "Python",
-                "last_commit": "2026-08-14T02:33:15Z",
-                "owner": "imlrz",
-                "repo": "ReFind",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "InvMem [code",
-              "description": "] Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1 on the Agent Memory Leaderboard academic textual track (2026-08).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1323121740,
-                "language": "Python",
-                "last_commit": "2026-08-11T04:18:21Z",
-                "owner": "wenxiaof345-ctrl",
-                "repo": "vanilla-rag-memory",
                 "stars": 8
               }
             },
@@ -984,13 +984,13 @@
             {
               "node_type": "item",
               "title": "Lians agent memory [code",
-              "description": "] [benchmark] Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage.",
+              "description": "] [eval] Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1280700354,
                 "language": "Python",
-                "last_commit": "2026-08-19T03:08:16Z",
+                "last_commit": "2026-08-20T02:37:07Z",
                 "owner": "Lians-ai",
                 "repo": "Lians",
                 "stars": 6
@@ -999,13 +999,13 @@
             {
               "node_type": "item",
               "title": "inspeximus (formerly mnemo) [code",
-              "description": "] [pypi] Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure.",
+              "description": "] Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1298999090,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:05:11Z",
+                "last_commit": "2026-08-19T19:32:39Z",
                 "owner": "DanceNitra",
                 "repo": "inspeximus",
                 "stars": 5
@@ -1014,7 +1014,7 @@
             {
               "node_type": "item",
               "title": "ActiveMemoryIndex [code",
-              "description": "] Stores memories twice — verbatim timestamped turns and atomic first-person facts — and retrieves by matching the log's own first-person register; #3 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1044,7 +1044,7 @@
             {
               "node_type": "item",
               "title": "Talamus [code",
-              "description": "] [docs] [benchmarks] [pypi] Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP.",
+              "description": "] [docs] [eval] Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,13 +1059,13 @@
             {
               "node_type": "item",
               "title": "RE-call [code",
-              "description": "] [docs] [benchmarks] Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient.",
+              "description": "] [docs] [eval] Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1292421895,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:03:33Z",
+                "last_commit": "2026-08-19T23:34:17Z",
                 "owner": "GiulioDER",
                 "repo": "RE-call",
                 "stars": 3
@@ -1110,7 +1110,7 @@
                 "archived": false,
                 "id": 1310005992,
                 "language": "Python",
-                "last_commit": "2026-07-31T13:07:33Z",
+                "last_commit": "2026-08-19T15:34:42Z",
                 "owner": "mozgsml",
                 "repo": "memgres",
                 "stars": 2
@@ -1134,7 +1134,7 @@
             {
               "node_type": "item",
               "title": "FlowGrid AML Retriever [code",
-              "description": "] Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked source evidence with traceable retrieval views; #8 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1149,7 +1149,7 @@
             {
               "node_type": "item",
               "title": "AI Unified Memory [code",
-              "description": "] [📥 Download (Win/macOS/Linux)] Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, automated synchronization, snapshots, and no third-party dependencies. Ships with a no-code desktop GUI (memory browser, semantic search, scheduling, cross-AI messages, hot memory) packaged for Windows/macOS/Linux.",
+              "description": "] Filesystem-native shared memory for multiple AI agents, with public and private libraries, cross-agent messaging, synchronization, snapshots, and a cross-platform desktop GUI; no third-party dependencies.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,6 +1159,36 @@
                 "owner": "yaowanxiang",
                 "repo": "ai-unified-memory",
                 "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engram (by FBISiri) [code",
+              "description": "] Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203382344,
+                "language": "Go",
+                "last_commit": "2026-08-19T19:15:42Z",
+                "owner": "FBISiri",
+                "repo": "engram",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Akephalos [code",
+              "description": "] Local-first, markdown-based portable agent profile (preferences, rules, durable memories) synced across agents via plain files and Git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1242283323,
+                "language": null,
+                "last_commit": "2026-08-03T10:22:42Z",
+                "owner": "daveinturkey15-byte",
+                "repo": "akephalos",
+                "stars": 0
               }
             },
             {
@@ -1185,7 +1215,7 @@
                 "archived": false,
                 "id": 1289313093,
                 "language": "Python",
-                "last_commit": "2026-08-02T18:03:34Z",
+                "last_commit": "2026-08-20T02:24:00Z",
                 "owner": "panellatech",
                 "repo": "panella",
                 "stars": 0
@@ -1194,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "Hybrid Memory Search [code",
-              "description": "] Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and BM25 + dense fused ranking; #4 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1209,7 +1239,7 @@
             {
               "node_type": "item",
               "title": "ChronoHybridMem [code",
-              "description": "] Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1254,7 @@
             {
               "node_type": "item",
               "title": "Hybrid Episodic Memory [code",
-              "description": "] Fully deterministic memory service fusing BM25 and dense retrieval over raw conversational turns via weighted reciprocal rank fusion, with no LLM in the memory path; #6 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Deterministic weighted reciprocal-rank fusion of BM25 and dense retrieval over raw conversational turns, no LLM in the path; #6, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1239,7 +1269,7 @@
             {
               "node_type": "item",
               "title": "Chronicle Memory [code",
-              "description": "] Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1254,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "MemoryAgent [code",
-              "description": "] FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 (as LLLMemoryAgent) on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 as LLLMemoryAgent, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1269,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "AML Memory MVP [code",
-              "description": "] Evidence-only retriever indexing English and CJK text with SQLite FTS5 plus character n-grams, typo-tolerant semantic retrieval, and conversation-neighbor expansion; #10 on the Agent Memory Leaderboard academic textual track (2026-08).",
+              "description": "] Evidence-only, typo-tolerant retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10, Agent Memory Leaderboard (academic textual, 2026-08).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1329,7 @@
             {
               "node_type": "item",
               "title": "claude-memory-tidy [code",
-              "description": "] Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, verbatim folding into warm sub-indexes; guards against silent truncation of the memory an agent loads every turn.",
+              "description": "] Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1327,10 +1357,10 @@
                 "archived": false,
                 "id": 764287615,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T04:00:48Z",
+                "last_commit": "2026-08-20T01:30:42Z",
                 "owner": "supermemoryai",
                 "repo": "supermemory",
-                "stars": 28956
+                "stars": 28967
               }
             },
             {
@@ -1342,10 +1372,10 @@
                 "archived": false,
                 "id": 817326197,
                 "language": "Rust",
-                "last_commit": "2026-08-19T06:37:37Z",
+                "last_commit": "2026-08-20T03:25:00Z",
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21101
+                "stars": 21121
               }
             },
             {
@@ -1381,7 +1411,7 @@
             {
               "node_type": "group",
               "title": "MemoraX",
-              "description": "[spec] [platform] Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1 on the Agent Memory Leaderboard industry textual track (2026-08).",
+              "description": "[spec] [platform] Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1, Agent Memory Leaderboard (industry textual, 2026-08).",
               "children": [
                 {
                   "node_type": "item",
@@ -1392,10 +1422,10 @@
                     "archived": false,
                     "id": 1318893208,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T11:37:46Z",
+                    "last_commit": "2026-08-20T03:35:18Z",
                     "owner": "memorax-ai",
                     "repo": "memorax-code",
-                    "stars": 384
+                    "stars": 402
                   }
                 }
               ]
@@ -1416,10 +1446,10 @@
                 "archived": false,
                 "id": 1201656210,
                 "language": "Python",
-                "last_commit": "2026-08-18T23:09:13Z",
+                "last_commit": "2026-08-20T03:11:13Z",
                 "owner": "MemPalace",
                 "repo": "mempalace",
-                "stars": 58461
+                "stars": 58475
               }
             },
             {
@@ -1434,7 +1464,7 @@
                 "last_commit": "2026-07-14T14:39:07Z",
                 "owner": "memvid",
                 "repo": "memvid",
-                "stars": 16409
+                "stars": 16414
               }
             },
             {
@@ -1492,7 +1522,7 @@
                 "last_commit": "2026-07-23T06:05:41Z",
                 "owner": "AgentMemoryWorld",
                 "repo": "Awesome-Agent-Memory",
-                "stars": 210
+                "stars": 212
               }
             },
             {
@@ -1574,7 +1604,7 @@
                 "last_commit": "2026-03-04T03:39:29Z",
                 "owner": "Shichun-Liu",
                 "repo": "Agent-Memory-Paper-List",
-                "stars": 2323
+                "stars": 2324
               }
             },
             {
@@ -1634,7 +1664,7 @@
                     "last_commit": "2026-08-07T08:20:10Z",
                     "owner": "AML-memory",
                     "repo": "agent-memory-leaderboard",
-                    "stars": 772
+                    "stars": 796
                   }
                 },
                 {
@@ -1649,7 +1679,7 @@
                     "last_commit": "2026-05-18T15:16:56Z",
                     "owner": "mem-eval-suite",
                     "repo": "LoCoMo_refined",
-                    "stars": 205
+                    "stars": 212
                   }
                 },
                 {
@@ -1664,7 +1694,7 @@
                     "last_commit": "2026-07-05T03:15:53Z",
                     "owner": "OpenDataBox",
                     "repo": "MemoryData",
-                    "stars": 132
+                    "stars": 134
                   }
                 },
                 {
@@ -1676,10 +1706,10 @@
                     "archived": false,
                     "id": 1278983935,
                     "language": "Python",
-                    "last_commit": "2026-08-18T08:02:57Z",
+                    "last_commit": "2026-08-19T14:07:59Z",
                     "owner": "MemTensor",
                     "repo": "OmniMemEval",
-                    "stars": 45
+                    "stars": 47
                   }
                 },
                 {
@@ -1746,7 +1776,7 @@
                     "last_commit": "2025-01-15T02:04:04Z",
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1225
+                    "stars": 1226
                   }
                 },
                 {
@@ -1903,7 +1933,7 @@
                     "last_commit": "2025-01-15T02:04:04Z",
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1225
+                    "stars": 1226
                   }
                 },
                 {
@@ -1933,7 +1963,7 @@
                     "last_commit": "2026-05-11T22:49:24Z",
                     "owner": "xiaowu0162",
                     "repo": "LongMemEval",
-                    "stars": 1012
+                    "stars": 1013
                   }
                 },
                 {
@@ -2007,7 +2037,7 @@
                     "last_commit": "2026-06-02T12:05:38Z",
                     "owner": "study-overflow",
                     "repo": "MBench",
-                    "stars": 116
+                    "stars": 117
                   }
                 },
                 {
@@ -2555,7 +2585,7 @@
                     "last_commit": "2026-08-17T11:51:02Z",
                     "owner": "EverMind-AI",
                     "repo": "EverOS",
-                    "stars": 12190
+                    "stars": 12219
                   }
                 },
                 {
@@ -2615,7 +2645,7 @@
                     "last_commit": "2026-04-14T09:14:39Z",
                     "owner": "microsoft",
                     "repo": "Mnemis",
-                    "stars": 104
+                    "stars": 105
                   }
                 },
                 {
@@ -2667,7 +2697,7 @@
                     "last_commit": "2026-07-29T00:02:46Z",
                     "owner": "OSU-NLP-Group",
                     "repo": "HippoRAG",
-                    "stars": 3950
+                    "stars": 3953
                   }
                 },
                 {
@@ -2682,7 +2712,7 @@
                     "last_commit": "2026-08-18T04:49:35Z",
                     "owner": "Mirix-AI",
                     "repo": "MIRIX",
-                    "stars": 3433
+                    "stars": 3434
                   }
                 },
                 {
@@ -2734,7 +2764,7 @@
                     "last_commit": "2026-07-29T00:02:46Z",
                     "owner": "OSU-NLP-Group",
                     "repo": "HippoRAG",
-                    "stars": 3950
+                    "stars": 3953
                   }
                 },
                 {
@@ -2808,7 +2838,7 @@
                     "last_commit": "2026-05-08T04:38:37Z",
                     "owner": "haowei-freesky",
                     "repo": "HERMES",
-                    "stars": 95
+                    "stars": 96
                   }
                 },
                 {
@@ -2920,7 +2950,7 @@
                     "last_commit": "2026-02-12T06:03:56Z",
                     "owner": "ByteDance-Seed",
                     "repo": "m3-agent",
-                    "stars": 1442
+                    "stars": 1443
                   }
                 },
                 {
@@ -3252,7 +3282,7 @@
                 "last_commit": "2026-05-06T09:24:05Z",
                 "owner": "EverMind-AI",
                 "repo": "MSA",
-                "stars": 3515
+                "stars": 3516
               }
             },
             {
@@ -3495,10 +3525,10 @@
                 "archived": false,
                 "id": 599547518,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:38:35Z",
+                "last_commit": "2026-08-20T03:34:23Z",
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 89432
+                "stars": 89482
               }
             },
             {
@@ -3543,7 +3573,7 @@
                     "last_commit": "2026-08-15T17:35:33Z",
                     "owner": "microsoft",
                     "repo": "SkillOpt",
-                    "stars": 16157
+                    "stars": 16169
                   }
                 },
                 {
@@ -3573,7 +3603,7 @@
                     "last_commit": "2025-10-05T14:34:18Z",
                     "owner": "Memento-Teams",
                     "repo": "Memento",
-                    "stars": 2565
+                    "stars": 2566
                   }
                 },
                 {
@@ -3633,7 +3663,7 @@
                     "last_commit": "2026-07-14T04:54:29Z",
                     "owner": "InternScience",
                     "repo": "MLEvolve",
-                    "stars": 418
+                    "stars": 419
                   }
                 },
                 {
@@ -3678,7 +3708,7 @@
                     "last_commit": "2026-07-18T03:51:40Z",
                     "owner": "MemTensor",
                     "repo": "MemRL",
-                    "stars": 169
+                    "stars": 170
                   }
                 },
                 {
@@ -3760,7 +3790,7 @@
                     "last_commit": "2025-10-05T14:34:18Z",
                     "owner": "Memento-Teams",
                     "repo": "Memento",
-                    "stars": 2565
+                    "stars": 2566
                   }
                 },
                 {
@@ -3790,7 +3820,7 @@
                     "last_commit": "2026-05-12T15:41:16Z",
                     "owner": "BytedTsinghua-SIA",
                     "repo": "MemAgent",
-                    "stars": 1094
+                    "stars": 1097
                   }
                 },
                 {
@@ -3984,7 +4014,7 @@
                     "last_commit": "2026-06-30T18:45:59Z",
                     "owner": "Ayanami1314",
                     "repo": "swe-pruner",
-                    "stars": 311
+                    "stars": 313
                   }
                 },
                 {
@@ -4021,7 +4051,7 @@
                     "last_commit": "2026-02-27T13:12:11Z",
                     "owner": "Alibaba-NLP",
                     "repo": "DeepResearch",
-                    "stars": 19849
+                    "stars": 19852
                   }
                 },
                 {
@@ -4073,16 +4103,16 @@
         {
           "node_type": "item",
           "title": "Agent Memory Guard [code",
-          "description": "] [pypi] OWASP runtime defense layer that screens agent memory writes for poisoning before they reach the agent — multi-layer validation with semantic anomaly detection, entropy scoring, provenance verification, and cross-reference and temporal checks.",
+          "description": "] [pypi] OWASP runtime defense layer that screens agent memory writes for poisoning: multi-layer validation with semantic anomaly detection, entropy scoring, and provenance verification.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1159563091,
             "language": "Python",
-            "last_commit": "2026-08-18T16:38:37Z",
+            "last_commit": "2026-08-19T18:28:38Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 135
+            "stars": 143
           }
         },
         {
@@ -4105,10 +4135,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:06:38.617Z",
+    "last_updated": "2026-08-20T03:36:26.055Z",
     "original_repository": "TeleAI-UAGI/Awesome-Agent-Memory",
     "original_repository_id": 1086124473,
-    "original_repository_sha": "1ffbaa7dc6ab681a1798044d5ad6d64863f14d57",
+    "original_repository_sha": "c6a809b227e240ab24ef2769cc864b7c2991257b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Agent-Memory",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Memory with stars"
