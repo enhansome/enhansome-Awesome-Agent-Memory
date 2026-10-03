@@ -17,11 +17,11 @@
                 "id": 1048065319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T02:17:39Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-03T04:17:51Z",
+                "open_issues": 111,
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 95160,
+                "stars": 95206,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -102,7 +102,7 @@
                 "open_issues": 781,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 66458,
+                "stars": 66495,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -134,11 +134,11 @@
                 "id": 1086419061,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:47:19Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-02T17:43:57Z",
+                "open_issues": 276,
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 44471,
+                "stars": 44756,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -160,11 +160,11 @@
                 "id": 1128123594,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T02:50:44Z",
-                "open_issues": 722,
+                "last_commit": "2026-10-03T04:22:44Z",
+                "open_issues": 727,
                 "owner": "volcengine",
                 "repo": "OpenViking",
-                "stars": 39125,
+                "stars": 39142,
                 "topics": [
                   "agent-memory",
                   "agent-plugins",
@@ -188,11 +188,11 @@
                 "id": 840056306,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:02:29Z",
+                "last_commit": "2026-10-02T16:30:54Z",
                 "open_issues": 444,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 31377,
+                "stars": 31391,
                 "topics": [
                   "agents",
                   "graph",
@@ -214,11 +214,11 @@
                 "id": 679343504,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:04:58Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-02T20:55:58Z",
+                "open_issues": 452,
                 "owner": "topoteretes",
                 "repo": "cognee",
-                "stars": 31300,
+                "stars": 31313,
                 "topics": [
                   "agent-memory",
                   "agent-skills",
@@ -255,11 +255,11 @@
                 "id": 1202057891,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:39:27Z",
-                "open_issues": 587,
+                "last_commit": "2026-10-03T02:23:12Z",
+                "open_issues": 462,
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 30489,
+                "stars": 30499,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -276,11 +276,11 @@
                 "id": 1166408297,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:56:34Z",
-                "open_issues": 610,
+                "last_commit": "2026-10-02T12:32:18Z",
+                "open_issues": 606,
                 "owner": "rohitg00",
                 "repo": "agentmemory",
-                "stars": 29091,
+                "stars": 29097,
                 "topics": [
                   "agentmemory",
                   "agents",
@@ -312,10 +312,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T08:48:49Z",
-                "open_issues": 882,
+                "open_issues": 886,
                 "owner": "TencentCloud",
                 "repo": "TencentDB-Agent-Memory",
-                "stars": 27634,
+                "stars": 27648,
                 "topics": [
                   "agent",
                   "ai-agent",
@@ -346,7 +346,7 @@
                 "open_issues": 0,
                 "owner": "letta-ai",
                 "repo": "letta",
-                "stars": 25004,
+                "stars": 25007,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -372,7 +372,7 @@
                 "open_issues": 144,
                 "owner": "mindverse",
                 "repo": "Second-Me",
-                "stars": 15690,
+                "stars": 15688,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -390,10 +390,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T14:39:47Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "NevaMind-AI",
                 "repo": "memU",
-                "stars": 14489,
+                "stars": 14490,
                 "topics": [
                   "agent-memory",
                   "claude-skills",
@@ -422,7 +422,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T13:01:28Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "EverMind-AI",
                 "repo": "EverOS",
                 "stars": 13325,
@@ -461,10 +461,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T03:09:34Z",
-                "open_issues": 118,
+                "open_issues": 117,
                 "owner": "MemTensor",
                 "repo": "MemOS",
-                "stars": 11675,
+                "stars": 11679,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -501,11 +501,11 @@
                 "id": 689777286,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T20:41:08Z",
+                "last_commit": "2026-10-02T21:21:22Z",
                 "open_issues": 150,
                 "owner": "plastic-labs",
                 "repo": "honcho",
-                "stars": 7431,
+                "stars": 7442,
                 "topics": [
                   "agent-memory",
                   "agentic-rag",
@@ -537,7 +537,7 @@
                 "open_issues": 2,
                 "owner": "SuanmoSuanyangTechnology",
                 "repo": "MemoryBear",
-                "stars": 7156,
+                "stars": 7163,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -554,11 +554,11 @@
                 "id": 1159234860,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:19:53Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-02T17:58:11Z",
+                "open_issues": 85,
                 "owner": "Gentleman-Programming",
                 "repo": "engram",
-                "stars": 6993,
+                "stars": 7005,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -621,7 +621,7 @@
                 "open_issues": 51,
                 "owner": "CortexReach",
                 "repo": "memory-lancedb-pro",
-                "stars": 4455,
+                "stars": 4452,
                 "topics": [
                   "lancedb",
                   "memory",
@@ -671,11 +671,11 @@
                 "id": 1038686658,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T22:56:51Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-03T00:17:12Z",
+                "open_issues": 165,
                 "owner": "MemMachine",
                 "repo": "MemMachine",
-                "stars": 3058,
+                "stars": 3056,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -716,7 +716,7 @@
                 "open_issues": 34,
                 "owner": "memodb-io",
                 "repo": "memobase",
-                "stars": 2922,
+                "stars": 2921,
                 "topics": [
                   "ai-companion",
                   "ai-memory",
@@ -744,8 +744,8 @@
                 "id": 1190042495,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T02:13:17Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-02T20:16:31Z",
+                "open_issues": 38,
                 "owner": "moorcheh-ai",
                 "repo": "memanto",
                 "stars": 2308,
@@ -779,8 +779,8 @@
                 "id": 920242883,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:47:26Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-02T19:35:27Z",
+                "open_issues": 66,
                 "owner": "langchain-ai",
                 "repo": "langmem",
                 "stars": 1692,
@@ -800,11 +800,11 @@
                 "id": 1207219415,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:29:05Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-03T00:21:34Z",
+                "open_issues": 88,
                 "owner": "ModernRelay",
                 "repo": "omnigraph",
-                "stars": 1240,
+                "stars": 1246,
                 "topics": [
                   "apache-arrow",
                   "context-graph",
@@ -856,11 +856,11 @@
                 "id": 1093180734,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:25:46Z",
-                "open_issues": 117,
+                "last_commit": "2026-10-03T02:23:53Z",
+                "open_issues": 114,
                 "owner": "oceanbase",
                 "repo": "powercontext",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -890,11 +890,11 @@
                 "id": 1300173275,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:05:37Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-02T23:19:47Z",
+                "open_issues": 10,
                 "owner": "vshulcz",
                 "repo": "deja-vu",
-                "stars": 1118,
+                "stars": 1120,
                 "topics": [
                   "agent-memory",
                   "ai-memory",
@@ -936,7 +936,7 @@
                 "open_issues": 5,
                 "owner": "puppyone-ai",
                 "repo": "puppyone",
-                "stars": 1075,
+                "stars": 1084,
                 "topics": []
               },
               "first_seen": "2026-09-19T07:36:00.451Z"
@@ -986,11 +986,11 @@
                 "id": 1234157397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T00:35:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T00:01:18Z",
+                "open_issues": 0,
                 "owner": "riponcm",
                 "repo": "projectmem",
-                "stars": 848,
+                "stars": 849,
                 "topics": [
                   "agent-memory",
                   "agentic-ai",
@@ -1028,11 +1028,11 @@
                 "id": 1157705791,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:58:23Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-02T10:04:50Z",
+                "open_issues": 4,
                 "owner": "AVIDS2",
                 "repo": "memorix",
-                "stars": 824,
+                "stars": 825,
                 "topics": [
                   "agent-memory",
                   "ai-coding",
@@ -1091,11 +1091,11 @@
                 "id": 1141662059,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T12:08:58Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-03T02:18:34Z",
+                "open_issues": 34,
                 "owner": "samvallad33",
                 "repo": "vestige",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "agent-memory",
                   "agent-os",
@@ -1175,11 +1175,11 @@
                 "id": 1222639711,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:32:59Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-02T23:40:26Z",
+                "open_issues": 54,
                 "owner": "caura-ai",
                 "repo": "caura",
-                "stars": 544,
+                "stars": 543,
                 "topics": [
                   "agent-memory",
                   "agentic-ai",
@@ -1212,8 +1212,8 @@
                 "id": 1224734286,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:50:10Z",
-                "open_issues": 205,
+                "last_commit": "2026-10-03T04:22:56Z",
+                "open_issues": 181,
                 "owner": "Ikalus1988",
                 "repo": "MisakaNet",
                 "stars": 519,
@@ -1384,8 +1384,8 @@
                 "id": 1150677698,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:00:04Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T15:20:52Z",
+                "open_issues": 13,
                 "owner": "joshuaswarren",
                 "repo": "remnic",
                 "stars": 211,
@@ -1465,7 +1465,7 @@
                 "open_issues": 1,
                 "owner": "Intelligent-Internet",
                 "repo": "CommonGround",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "agents",
                   "ai",
@@ -1489,7 +1489,7 @@
                 "id": 1312924592,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T07:01:49Z",
+                "last_commit": "2026-10-03T04:06:15Z",
                 "open_issues": 13,
                 "owner": "JingxuanC",
                 "repo": "causal-memory",
@@ -1521,8 +1521,8 @@
                 "id": 1208955871,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T13:28:40Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-02T23:29:36Z",
+                "open_issues": 27,
                 "owner": "jaylfc",
                 "repo": "taosmd",
                 "stars": 79,
@@ -1625,27 +1625,6 @@
             },
             {
               "node_type": "item",
-              "title": "RetainDB",
-              "description": "[code] Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open source memory and context infrastructure for ai systems",
-                "homepage": "https://retaindb.com",
-                "id": 1200501524,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-12T09:15:57Z",
-                "open_issues": 0,
-                "owner": "RetainDB",
-                "repo": "RetainDB",
-                "stars": 57,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:39:39.983Z"
-            },
-            {
-              "node_type": "item",
               "title": "LWC",
               "description": "[code] Agent-operated persistent memory CLI with source-cited Wiki pages, full-text search, document graphs, and CodeGraph indexes for cross-session project recall.",
               "children": [],
@@ -1660,7 +1639,7 @@
                 "open_issues": 0,
                 "owner": "JanYork",
                 "repo": "llm-wiki-cli",
-                "stars": 57,
+                "stars": 60,
                 "topics": [
                   "agent-memory-system",
                   "agent-skills",
@@ -1683,6 +1662,27 @@
                   "persistent-memory-tool",
                   "proactive-memory"
                 ]
+              },
+              "first_seen": "2026-08-28T14:39:39.983Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RetainDB",
+              "description": "[code] Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source memory and context infrastructure for ai systems",
+                "homepage": "https://retaindb.com",
+                "id": 1200501524,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-12T09:15:57Z",
+                "open_issues": 0,
+                "owner": "RetainDB",
+                "repo": "RetainDB",
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
             },
@@ -1807,8 +1807,8 @@
                 "id": 1279181033,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:26:58Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-02T17:52:29Z",
+                "open_issues": 20,
                 "owner": "knaisoma",
                 "repo": "data-olympus",
                 "stars": 28,
@@ -1836,8 +1836,8 @@
                 "id": 1207193530,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T09:30:33Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-02T15:14:06Z",
+                "open_issues": 11,
                 "owner": "mnemoverse",
                 "repo": "mcp-memory-server",
                 "stars": 25,
@@ -1881,7 +1881,7 @@
                 "open_issues": 3,
                 "owner": "zensation-ai",
                 "repo": "zenbrain",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "agent-memory",
                   "ai-memory",
@@ -1940,8 +1940,8 @@
                 "id": 1194081291,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T20:05:35Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-02T19:59:21Z",
+                "open_issues": 5,
                 "owner": "hermes-labs-ai",
                 "repo": "fidelis",
                 "stars": 23,
@@ -1982,7 +1982,7 @@
                 "id": 1189746863,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:19:13Z",
+                "last_commit": "2026-10-03T02:17:56Z",
                 "open_issues": 2,
                 "owner": "hjqcan",
                 "repo": "GoodMemory",
@@ -2168,7 +2168,7 @@
                 "id": 1227307412,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:46:05Z",
+                "last_commit": "2026-10-02T09:19:21Z",
                 "open_issues": 0,
                 "owner": "renezander030",
                 "repo": "agentic-task-system",
@@ -2210,7 +2210,7 @@
                 "id": 1360074658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T20:15:27Z",
+                "last_commit": "2026-10-02T12:02:51Z",
                 "open_issues": 0,
                 "owner": "aistastudio",
                 "repo": "myc",
@@ -2316,7 +2316,7 @@
                 "id": 1202216045,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T07:23:09Z",
+                "last_commit": "2026-10-02T18:39:25Z",
                 "open_issues": 0,
                 "owner": "RooAGI",
                 "repo": "Lint-AI",
@@ -2498,7 +2498,7 @@
                 "id": 1288697614,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:32:39Z",
+                "last_commit": "2026-10-02T19:09:53Z",
                 "open_issues": 5,
                 "owner": "tonydzi",
                 "repo": "sqlite-graph-memory",
@@ -2596,7 +2596,7 @@
                 "id": 1369965336,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:09:31Z",
+                "last_commit": "2026-10-02T13:28:14Z",
                 "open_issues": 1,
                 "owner": "sonic182",
                 "repo": "graphmem",
@@ -2691,6 +2691,27 @@
             },
             {
               "node_type": "item",
+              "title": "birkin-mnemosyne",
+              "description": "[code] Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zero-dependency memory palace + safe model-agnostic curation for LLM agents (extracted from Birkin)",
+                "homepage": null,
+                "id": 1290602814,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-02T14:04:02Z",
+                "open_issues": 0,
+                "owner": "ashmoonori-afk",
+                "repo": "birkin-mnemosyne",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-09-28T09:02:46.486Z"
+            },
+            {
+              "node_type": "item",
               "title": "Agent Knowledge Cycle",
               "description": "[code] [paper] Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory.",
               "children": [],
@@ -2730,27 +2751,6 @@
                 ]
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
-            },
-            {
-              "node_type": "item",
-              "title": "birkin-mnemosyne",
-              "description": "[code] Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Zero-dependency memory palace + safe model-agnostic curation for LLM agents (extracted from Birkin)",
-                "homepage": null,
-                "id": 1290602814,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-30T13:29:56Z",
-                "open_issues": 0,
-                "owner": "ashmoonori-afk",
-                "repo": "birkin-mnemosyne",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-09-28T09:02:46.486Z"
             },
             {
               "node_type": "item",
@@ -2806,8 +2806,8 @@
                 "id": 1321887283,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:25:54Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-02T12:28:12Z",
+                "open_issues": 1,
                 "owner": "kgaidev",
                 "repo": "kgai",
                 "stars": 3,
@@ -3463,11 +3463,11 @@
                 "id": 764287615,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:15:16Z",
-                "open_issues": 123,
+                "last_commit": "2026-10-03T01:41:43Z",
+                "open_issues": 97,
                 "owner": "supermemoryai",
                 "repo": "supermemory",
-                "stars": 31061,
+                "stars": 31060,
                 "topics": [
                   "agent-memory",
                   "ai-memory",
@@ -3497,11 +3497,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:13:31Z",
-                "open_issues": 310,
+                "last_commit": "2026-10-03T00:12:31Z",
+                "open_issues": 317,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 24883,
+                "stars": 25080,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -3534,16 +3534,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+                "description": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
                 "homepage": "https://screenpipe.com",
                 "id": 817326197,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:08:15Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T02:32:58Z",
+                "open_issues": 35,
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21796,
+                "stars": 21795,
                 "topics": [
                   "agents",
                   "agi",
@@ -3585,7 +3585,7 @@
                 "open_issues": 23,
                 "owner": "campfirein",
                 "repo": "byterover-cli",
-                "stars": 4961,
+                "stars": 4959,
                 "topics": [
                   "agent",
                   "ai",
@@ -3620,7 +3620,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 893,
+                "stars": 894,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -3658,8 +3658,8 @@
                 "id": 1115350109,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:53:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T22:20:27Z",
+                "open_issues": 3,
                 "owner": "contextstream",
                 "repo": "mcp-server",
                 "stars": 43,
@@ -3753,8 +3753,8 @@
                 "id": 1292421895,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:59:03Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T20:56:14Z",
+                "open_issues": 0,
                 "owner": "GiulioDER",
                 "repo": "RE-call",
                 "stars": 6,
@@ -3821,8 +3821,8 @@
                 "id": 1312792729,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T00:50:41Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-02T13:18:54Z",
+                "open_issues": 4,
                 "owner": "kapella-hub",
                 "repo": "FirekeepHQ",
                 "stars": 3,
@@ -3927,7 +3927,7 @@
                     "open_issues": 17,
                     "owner": "memorax-ai",
                     "repo": "memorax-code",
-                    "stars": 2022,
+                    "stars": 2029,
                     "topics": [
                       "ai-agents",
                       "claude-code",
@@ -3961,8 +3961,8 @@
                 "id": 1201656210,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:54:31Z",
-                "open_issues": 779,
+                "last_commit": "2026-10-03T02:35:31Z",
+                "open_issues": 777,
                 "owner": "MemPalace",
                 "repo": "mempalace",
                 "stars": 59388,
@@ -4035,7 +4035,7 @@
                 "open_issues": 14,
                 "owner": "kingjulio8238",
                 "repo": "Memary",
-                "stars": 2654,
+                "stars": 2653,
                 "topics": [
                   "agents",
                   "knowledge-graph",
@@ -4106,49 +4106,6 @@
           "description": null,
           "node_type": "group",
           "title": "🗓️ 2026"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ACM SIGIR-AP 2025 Tutorial: Conversational Agents: From RAG to LTM",
-              "description": "† [paper] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-                "homepage": null,
-                "id": 1086124473,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:57:06Z",
-                "open_issues": 2,
-                "owner": "TeleAI-UAGI",
-                "repo": "Awesome-Agent-Memory",
-                "stars": 655,
-                "topics": [
-                  "agent-memory",
-                  "ai-agent",
-                  "ai-agent-memory",
-                  "awesome",
-                  "awesome-agent-memory",
-                  "awesome-list",
-                  "continual-learning",
-                  "llm",
-                  "llm-memory",
-                  "long-term-memory",
-                  "memory",
-                  "memory-management",
-                  "multimodal-llm-memory",
-                  "rag"
-                ]
-              },
-              "first_seen": "2026-08-28T14:39:39.983Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🗓️ 2025"
         }
       ],
       "title": "📖 Tutorials"
@@ -4161,7 +4118,7 @@
             {
               "node_type": "item",
               "title": "Toward Efficient Agents: Memory, Tool Learning, and Planning",
-              "description": "[code]",
+              "description": "yxf203/Awesome-Efficient-Agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4189,7 +4146,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey",
-              "description": "[code]",
+              "description": "AgentMemoryWorld/Awesome-Agent-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4210,7 +4167,7 @@
             {
               "node_type": "item",
               "title": "Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends",
-              "description": null,
+              "description": "BAI-LAB/Survey-on-AI-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4231,7 +4188,7 @@
             {
               "node_type": "item",
               "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-              "description": "[code]",
+              "description": "FeishuLuo/Evolving-LLM-Agent-Memory-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4252,7 +4209,7 @@
             {
               "node_type": "item",
               "title": "Memory in the LLM Era: Modular Architectures and Strategies within a Unified Framework",
-              "description": "[code]",
+              "description": "Yanchen398/Memory-in-the-LLM-Era",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4273,7 +4230,7 @@
             {
               "node_type": "item",
               "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
-              "description": "[code]",
+              "description": "FredJiang0324/Anatomy-of-Agentic-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4301,7 +4258,7 @@
             {
               "node_type": "item",
               "title": "Memory in the Age of AI Agents",
-              "description": "[code]",
+              "description": "Shichun-Liu/Agent-Memory-Paper-List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4314,7 +4271,7 @@
                 "open_issues": 17,
                 "owner": "Shichun-Liu",
                 "repo": "Agent-Memory-Paper-List",
-                "stars": 2406,
+                "stars": 2408,
                 "topics": [
                   "agent",
                   "memory"
@@ -4325,7 +4282,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions",
-              "description": "[code]",
+              "description": "Elvin-Yiming-Du/Survey_Memory_in_AI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4346,7 +4303,7 @@
             {
               "node_type": "item",
               "title": "AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents",
-              "description": "[code]",
+              "description": "AgentMemory/Huaman-Agent-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4374,7 +4331,7 @@
             {
               "node_type": "item",
               "title": "A Survey on the Memory Mechanism of Large Language Model based Agents",
-              "description": "[code]",
+              "description": "nuster1128/LLM_Agent_Memory_Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4423,7 +4380,7 @@
                     "open_issues": 15,
                     "owner": "AML-memory",
                     "repo": "agent-memory-leaderboard",
-                    "stars": 1187,
+                    "stars": 1188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -4431,7 +4388,7 @@
                 {
                   "node_type": "item",
                   "title": "LoCoMo Refined: Recalibrating LoCoMo with Stricter LLM Judging and A Cleaned Dataset [code",
-                  "description": "]",
+                  "description": "mem-eval-suite/LoCoMo_refined",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4469,7 +4426,7 @@
                     "open_issues": 3,
                     "owner": "OpenDataBox",
                     "repo": "MemoryData",
-                    "stars": 147,
+                    "stars": 146,
                     "topics": [
                       "agent",
                       "llm",
@@ -4490,11 +4447,11 @@
                     "id": 1179100197,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-30T11:53:02Z",
+                    "last_commit": "2026-10-02T17:35:17Z",
                     "open_issues": 27,
                     "owner": "vectorize-io",
                     "repo": "agent-memory-benchmark",
-                    "stars": 128,
+                    "stars": 129,
                     "topics": [
                       "ai-agents",
                       "ai-memory",
@@ -4506,7 +4463,7 @@
                 {
                   "node_type": "item",
                   "title": "OmniMemEval [code",
-                  "description": "]",
+                  "description": "MemTensor/OmniMemEval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4527,7 +4484,7 @@
                 {
                   "node_type": "item",
                   "title": "Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents",
-                  "description": "[code]",
+                  "description": "xjtuleeyf/Locomo-Plus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4548,7 +4505,7 @@
                 {
                   "node_type": "item",
                   "title": "Cost and Accuracy of Long-Term Memory in Distributed Multi-Agent Systems Based on Large Language Models",
-                  "description": "[code]",
+                  "description": "wolffbe/dmas-memory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4569,7 +4526,7 @@
                 {
                   "node_type": "item",
                   "title": "Agent-Memory Integrity Benchmark [code",
-                  "description": "]",
+                  "description": "DanceNitra/agent-memory-integrity",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4597,7 +4554,7 @@
                 {
                   "node_type": "item",
                   "title": "LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks",
-                  "description": "[code]",
+                  "description": "THUDM/LongBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4815,7 +4772,7 @@
                 {
                   "node_type": "item",
                   "title": "MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents",
-                  "description": "[code]",
+                  "description": "import-myself/Membench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4857,7 +4814,7 @@
                 {
                   "node_type": "item",
                   "title": "Minerva: A Programmable Memory Test Benchmark for Language Models",
-                  "description": "[code]",
+                  "description": "microsoft/minerva_memory_test",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4885,7 +4842,7 @@
                 {
                   "node_type": "item",
                   "title": "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",
-                  "description": "[code]",
+                  "description": "THUDM/LongBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4924,7 +4881,7 @@
                     "open_issues": 38,
                     "owner": "snap-research",
                     "repo": "locomo",
-                    "stars": 1200,
+                    "stars": 1201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -4932,7 +4889,7 @@
                 {
                   "node_type": "item",
                   "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
-                  "description": "[data]",
+                  "description": "xiaowu0162/LongMemEval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4945,7 +4902,7 @@
                     "open_issues": 46,
                     "owner": "xiaowu0162",
                     "repo": "LongMemEval",
-                    "stars": 1125,
+                    "stars": 1127,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -4953,7 +4910,7 @@
                 {
                   "node_type": "item",
                   "title": "∞Bench: Extending Long Context Evaluation Beyond 100K Tokens",
-                  "description": "[code]",
+                  "description": "OpenBMB/InfiniteBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4985,7 +4942,7 @@
                 {
                   "node_type": "item",
                   "title": "StoryBench: A Multifaceted Benchmark for Continuous Story Visualization",
-                  "description": "[code]",
+                  "description": "google/storybench",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5184,7 +5141,7 @@
                 {
                   "node_type": "item",
                   "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
-                  "description": "[code]",
+                  "description": "MME-Benchmarks/Video-MME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5212,7 +5169,7 @@
                 {
                   "node_type": "item",
                   "title": "LVBench: An Extreme Long Video Understanding Benchmark",
-                  "description": "[code]",
+                  "description": "zai-org/LVBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5261,7 +5218,7 @@
                 {
                   "node_type": "item",
                   "title": "MovieChat+: Question-aware Sparse Memory for Long Video Question Answering",
-                  "description": "[code]",
+                  "description": "wenhaochai/MovieChat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5289,7 +5246,7 @@
                 {
                   "node_type": "item",
                   "title": "LongVideoBench: A Benchmark for Long-Context Interleaved Video-Language Understanding",
-                  "description": "[code]",
+                  "description": "longvideobench/LongVideoBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5317,7 +5274,7 @@
                 {
                   "node_type": "item",
                   "title": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
-                  "description": "[code]",
+                  "description": "egoschema/EgoSchema",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5394,7 +5351,7 @@
                 {
                   "node_type": "item",
                   "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
-                  "description": "[code]",
+                  "description": "antropy-research/SEAGym",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5477,7 +5434,7 @@
                     "open_issues": 40,
                     "owner": "facebookresearch",
                     "repo": "meta-agents-research-environments",
-                    "stars": 559,
+                    "stars": 561,
                     "topics": [
                       "agents",
                       "ai",
@@ -5533,7 +5490,7 @@
                 {
                   "node_type": "item",
                   "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
-                  "description": "[code]",
+                  "description": "StonyBrookNLP/appworld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5590,7 +5547,7 @@
                 {
                   "node_type": "item",
                   "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
-                  "description": "[code]",
+                  "description": "aiming-lab/SimpleMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5628,7 +5585,7 @@
                 {
                   "node_type": "item",
                   "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
-                  "description": "[code]",
+                  "description": "zjunlp/LightMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5688,7 +5645,7 @@
                 {
                   "node_type": "item",
                   "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
-                  "description": "[code]",
+                  "description": "MemTensor/MemPrivacy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5729,7 +5686,7 @@
                 {
                   "node_type": "item",
                   "title": "Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation",
-                  "description": "[code]",
+                  "description": "HU-xiaobai/xMemory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5750,7 +5707,7 @@
                 {
                   "node_type": "item",
                   "title": "Mandol: An Agglomerative Agent Memory System for Long-Term Conversations",
-                  "description": "[code]",
+                  "description": "AgentCombo/Mandol",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5776,7 +5733,7 @@
                 {
                   "node_type": "item",
                   "title": "Beyond Similarity Search: Tenure and the Case for Structured Belief State in LLM Memory",
-                  "description": "[code]",
+                  "description": "tenurehq/tenure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5810,7 +5767,7 @@
                 {
                   "node_type": "item",
                   "title": "RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents",
-                  "description": "[code]",
+                  "description": "CaiusDai/RecMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5831,7 +5788,7 @@
                 {
                   "node_type": "item",
                   "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
-                  "description": "[code]",
+                  "description": "Dynamis-Labs/no-escape",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5873,7 +5830,7 @@
                 {
                   "node_type": "item",
                   "title": "MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search",
-                  "description": "[code]",
+                  "description": "Applied-Machine-Learning-Lab/ACL2026_MemSearch-o1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5894,7 +5851,7 @@
                 {
                   "node_type": "item",
                   "title": "Memory Efficiency and Resource-Rational Encoding in Sentence Processing",
-                  "description": "[code]",
+                  "description": "weijiexu-charlie/resource-rational-encoding",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5922,7 +5879,7 @@
                 {
                   "node_type": "item",
                   "title": "LightMem: Lightweight and Efficient Memory-Augmented Generation",
-                  "description": "[code]",
+                  "description": "zjunlp/LightMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5961,7 +5918,7 @@
                 {
                   "node_type": "item",
                   "title": "Human-inspired Episodic Memory for Infinite Context LLMs",
-                  "description": "[code]",
+                  "description": "em-llm/EM-LLM-model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5982,7 +5939,7 @@
                 {
                   "node_type": "item",
                   "title": "What Deserves Memory: Adaptive Memory Distillation for LLM Agents",
-                  "description": "[code]",
+                  "description": "nemori-ai/nemori",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6010,7 +5967,7 @@
                 {
                   "node_type": "item",
                   "title": "MemWeaver: A Hierarchical Memory from Textual Interactive Behaviors for Personalized Generation",
-                  "description": "[code]",
+                  "description": "fishsure/MemWeaver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6038,7 +5995,7 @@
                 {
                   "node_type": "item",
                   "title": "Agent Workflow Memory",
-                  "description": "[code]",
+                  "description": "zorazrw/agent-workflow-memory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6063,7 +6020,7 @@
                 {
                   "node_type": "item",
                   "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
-                  "description": "[code]",
+                  "description": "zhongwanjun/MemoryBank-SiliconFriend",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6084,7 +6041,7 @@
                 {
                   "node_type": "item",
                   "title": "Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations",
-                  "description": "[code]",
+                  "description": "nuochenpku/COMEDY",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6105,7 +6062,7 @@
                 {
                   "node_type": "item",
                   "title": "Toward Conversational Agents with Context and Time Sensitive Long-term Memory",
-                  "description": "[data]",
+                  "description": "Zyphra/TemporalMemoryDataset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6140,7 +6097,7 @@
                 {
                   "node_type": "item",
                   "title": "HyperMem: Hypergraph Memory for Long-Term Conversations",
-                  "description": "[code]",
+                  "description": "EverMind-AI/EverOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6150,7 +6107,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-01T13:01:28Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "EverMind-AI",
                     "repo": "EverOS",
                     "stars": 13325,
@@ -6218,7 +6175,7 @@
                 {
                   "node_type": "item",
                   "title": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
-                  "description": "[code]",
+                  "description": "TIMAN-group/PlugMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6243,7 +6200,7 @@
                 {
                   "node_type": "item",
                   "title": "T-Mem: Memory That Anticipates, Not Archives",
-                  "description": "[code]",
+                  "description": "Sherlockwz/T-Mem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6264,7 +6221,7 @@
                 {
                   "node_type": "item",
                   "title": "MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents",
-                  "description": "[code]",
+                  "description": "FredJiang0324/MAGMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6285,7 +6242,7 @@
                 {
                   "node_type": "item",
                   "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
-                  "description": "[code]",
+                  "description": "libingzheren/Jev-Mem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6298,7 +6255,7 @@
                     "open_issues": 1,
                     "owner": "libingzheren",
                     "repo": "Jev-Mem",
-                    "stars": 142,
+                    "stars": 146,
                     "topics": [
                       "agent",
                       "agent-memory",
@@ -6315,7 +6272,7 @@
                 {
                   "node_type": "item",
                   "title": "Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory",
-                  "description": "[code]",
+                  "description": "microsoft/Mnemis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6328,7 +6285,7 @@
                     "open_issues": 0,
                     "owner": "microsoft",
                     "repo": "Mnemis",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -6336,7 +6293,7 @@
                 {
                   "node_type": "item",
                   "title": "TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces",
-                  "description": "[code]",
+                  "description": "YimingShu-teay/TraceMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6357,7 +6314,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs",
-                  "description": "[code]",
+                  "description": "ulab-uiuc/GraphPlanner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6385,7 +6342,7 @@
                 {
                   "node_type": "item",
                   "title": "From RAG to Memory: Non-Parametric Continual Learning for Large Language Models",
-                  "description": "[code]",
+                  "description": "OSU-NLP-Group/HippoRAG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6398,7 +6355,7 @@
                     "open_issues": 7,
                     "owner": "OSU-NLP-Group",
                     "repo": "HippoRAG",
-                    "stars": 4033,
+                    "stars": 4035,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -6406,7 +6363,7 @@
                 {
                   "node_type": "item",
                   "title": "MIRIX: Multi-Agent Memory System for LLM-Based Agents",
-                  "description": "[code]",
+                  "description": "Mirix-AI/MIRIX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6453,7 +6410,7 @@
                 {
                   "node_type": "item",
                   "title": "Hierarchical Memory Organization for Wikipedia Generation",
-                  "description": "[code]",
+                  "description": "eugeneyujunhao/mog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6481,7 +6438,7 @@
                 {
                   "node_type": "item",
                   "title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
-                  "description": "[code]",
+                  "description": "OSU-NLP-Group/HippoRAG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6494,7 +6451,7 @@
                     "open_issues": 7,
                     "owner": "OSU-NLP-Group",
                     "repo": "HippoRAG",
-                    "stars": 4033,
+                    "stars": 4035,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -6502,7 +6459,7 @@
                 {
                   "node_type": "item",
                   "title": "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents",
-                  "description": "[code]",
+                  "description": "AIRI-Institute/AriGraph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6537,7 +6494,7 @@
                 {
                   "node_type": "item",
                   "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
-                  "description": "[code]",
+                  "description": "aiming-lab/SimpleMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6588,7 +6545,7 @@
                     "open_issues": 7,
                     "owner": "xzf-thu",
                     "repo": "VoiceMem",
-                    "stars": 2295,
+                    "stars": 2308,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -6640,7 +6597,7 @@
                 {
                   "node_type": "item",
                   "title": "HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding",
-                  "description": "[code]",
+                  "description": "haowei-freesky/HERMES",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6714,7 +6671,7 @@
                 {
                   "node_type": "item",
                   "title": "SE-GA: Memory-Augmented Self-Evolution for GUI Agents",
-                  "description": "[code]",
+                  "description": "jinshilong-dev/SE-GA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6735,7 +6692,7 @@
                 {
                   "node_type": "item",
                   "title": "Visual Agentic Memory: Enabling Online Long Video Understanding via Online Indexing, Hierarchical Memory, and Agentic Retrieval",
-                  "description": "[code]",
+                  "description": "yiliu-li/Visual-Agentic-Memory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6766,7 +6723,7 @@
                 {
                   "node_type": "item",
                   "title": "EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use",
-                  "description": "[code]",
+                  "description": "lingcco/EventMemAgent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6787,7 +6744,7 @@
                 {
                   "node_type": "item",
                   "title": "M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions",
-                  "description": "[code]",
+                  "description": "Little-Fridge/M2A",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6815,7 +6772,7 @@
                 {
                   "node_type": "item",
                   "title": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory",
-                  "description": "[code]",
+                  "description": "ByteDance-Seed/m3-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6836,7 +6793,7 @@
                 {
                   "node_type": "item",
                   "title": "MemVerse: Multimodal Memory for Lifelong Learning Agents",
-                  "description": "[code]",
+                  "description": "KnowledgeXLab/MemVerse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6857,7 +6814,7 @@
                 {
                   "node_type": "item",
                   "title": "WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning",
-                  "description": "[code]",
+                  "description": "wgcyeo/WorldMM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6885,7 +6842,7 @@
                 {
                   "node_type": "item",
                   "title": "HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding",
-                  "description": "[code]",
+                  "description": "linyueqian/HippoMM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6906,7 +6863,7 @@
                 {
                   "node_type": "item",
                   "title": "MGA: Memory-Driven GUI Agent for Observation-Centric Interaction",
-                  "description": "[code]",
+                  "description": "MintyCo0kie/MGA4OSWorld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6934,7 +6891,7 @@
                 {
                   "node_type": "item",
                   "title": "VideoAgent: Long-form Video Understanding with Large Language Model as Agent",
-                  "description": "[code]",
+                  "description": "HKUDS/VideoAgent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6944,10 +6901,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-22T01:44:05Z",
-                    "open_issues": 14,
+                    "open_issues": 13,
                     "owner": "HKUDS",
                     "repo": "VideoAgent",
-                    "stars": 1918,
+                    "stars": 1915,
                     "topics": [
                       "agents",
                       "audio-editing",
@@ -6964,7 +6921,7 @@
                 {
                   "node_type": "item",
                   "title": "VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling",
-                  "description": "[code]",
+                  "description": "OpenGVLab/VideoChat-Flash",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6985,7 +6942,7 @@
                 {
                   "node_type": "item",
                   "title": "LongVLM: Efficient Long Video Understanding via Large Language Models",
-                  "description": "[code]",
+                  "description": "ziplab/LongVLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7006,7 +6963,7 @@
                 {
                   "node_type": "item",
                   "title": "KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems",
-                  "description": "[code]",
+                  "description": "WZX0Swarm0Robotics/KARMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7067,7 +7024,7 @@
                 {
                   "node_type": "item",
                   "title": "LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory",
-                  "description": "[code]",
+                  "description": "Junyi42/LoGeR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7124,7 +7081,7 @@
                 {
                   "node_type": "item",
                   "title": "StoryMem: Multi-shot Long Video Storytelling with Memory",
-                  "description": "[code]",
+                  "description": "Kevin-thu/StoryMem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7137,7 +7094,7 @@
                     "open_issues": 7,
                     "owner": "Kevin-thu",
                     "repo": "StoryMem",
-                    "stars": 771,
+                    "stars": 770,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -7145,7 +7102,7 @@
                 {
                   "node_type": "item",
                   "title": "Yume-1.5: A Text-Controlled Interactive World Generation Model",
-                  "description": "[code]",
+                  "description": "stdstu12/YUME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7172,7 +7129,7 @@
                 {
                   "node_type": "item",
                   "title": "MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives",
-                  "description": "[code]",
+                  "description": "KlingAIResearch/MemFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7193,7 +7150,7 @@
                 {
                   "node_type": "item",
                   "title": "VideoRAG: Retrieval-Augmented Generation over Video Corpus",
-                  "description": "[code]",
+                  "description": "starsuzi/VideoRAG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7220,7 +7177,7 @@
                 {
                   "node_type": "item",
                   "title": "MagicWorld: Towards Long-Horizon Stability for Interactive Video World Exploration",
-                  "description": "[code]",
+                  "description": "vivoCameraResearch/Magic-World",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7253,7 +7210,7 @@
                 {
                   "node_type": "item",
                   "title": "MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation",
-                  "description": "[code]",
+                  "description": "MCG-NJU/MotionRAG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7297,7 +7254,7 @@
                 {
                   "node_type": "item",
                   "title": "Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram",
-                  "description": "[code]",
+                  "description": "zhejianglab/Gengram",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7327,7 +7284,7 @@
                 "open_issues": 22,
                 "owner": "deepseek-ai",
                 "repo": "Engram",
-                "stars": 4708,
+                "stars": 4709,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -7335,7 +7292,7 @@
             {
               "node_type": "item",
               "title": "MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens",
-              "description": "[code]",
+              "description": "EverMind-AI/MSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7348,7 +7305,7 @@
                 "open_issues": 4,
                 "owner": "EverMind-AI",
                 "repo": "MSA",
-                "stars": 3516,
+                "stars": 3515,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:39:39.983Z"
@@ -7377,7 +7334,7 @@
             {
               "node_type": "item",
               "title": "STEM: Scaling Transformers with Embedding Modules",
-              "description": "[code]",
+              "description": "Infini-AI-Lab/STEM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7398,7 +7355,7 @@
             {
               "node_type": "item",
               "title": "δ-mem: Efficient Online Memory for Large Language Models",
-              "description": "[code]",
+              "description": "MindLab-Research/delta-Mem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7419,7 +7376,7 @@
             {
               "node_type": "item",
               "title": "MeMo: Memory as a Model",
-              "description": "[code]",
+              "description": "arunv3rma/MeMo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7440,7 +7397,7 @@
             {
               "node_type": "item",
               "title": "GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent",
-              "description": "[code]",
+              "description": "yurakuratov/gradmem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7449,7 +7406,7 @@
                 "id": 979420704,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T10:52:15Z",
+                "last_commit": "2026-10-02T10:12:00Z",
                 "open_issues": 2,
                 "owner": "yurakuratov",
                 "repo": "gradmem",
@@ -7461,7 +7418,7 @@
             {
               "node_type": "item",
               "title": "MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling",
-              "description": "[code]",
+              "description": "ningding-o/MeKi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7482,7 +7439,7 @@
             {
               "node_type": "item",
               "title": "Language Model Memory and Memory Models for Language",
-              "description": "[code]",
+              "description": "blbadger/memorymodels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7510,7 +7467,7 @@
             {
               "node_type": "item",
               "title": "MoM: Linear Sequence Modeling with Mixture-of-Memories",
-              "description": "[code]",
+              "description": "OpenSparseLLMs/MoM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7531,7 +7488,7 @@
             {
               "node_type": "item",
               "title": "Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models",
-              "description": "[code]",
+              "description": "LUMIA-Group/MemoryDecoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7552,7 +7509,7 @@
             {
               "node_type": "item",
               "title": "MLP Memory: Language Modeling with Retriever-pretrained External Memory",
-              "description": "[code]",
+              "description": "LUMIA-Group/MLPMemory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7601,7 +7558,7 @@
             {
               "node_type": "item",
               "title": "WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models",
-              "description": "[code]",
+              "description": "zjunlp/EasyEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7614,7 +7571,7 @@
                 "open_issues": 3,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2926,
+                "stars": 2928,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -7643,7 +7600,7 @@
             {
               "node_type": "item",
               "title": "InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory",
-              "description": "[code]",
+              "description": "thunlp/InfLLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7669,7 +7626,7 @@
             {
               "node_type": "item",
               "title": "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding",
-              "description": "[code]",
+              "description": "boheumd/MA-LMM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7682,7 +7639,7 @@
                 "open_issues": 18,
                 "owner": "boheumd",
                 "repo": "MA-LMM",
-                "stars": 354,
+                "stars": 353,
                 "topics": [
                   "llm",
                   "video-understanding"
@@ -7693,7 +7650,7 @@
             {
               "node_type": "item",
               "title": "MemoryLLM: Towards Self-Updatable Large Language Models",
-              "description": "[code]",
+              "description": "wangyu-ustc/MemoryLLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7721,7 +7678,7 @@
             {
               "node_type": "item",
               "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
-              "description": "[code]",
+              "description": "vllm-project/vllm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7730,11 +7687,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:27:12Z",
-                "open_issues": 8474,
+                "last_commit": "2026-10-03T04:20:51Z",
+                "open_issues": 8479,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 93058,
+                "stars": 93085,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -7763,7 +7720,7 @@
             {
               "node_type": "item",
               "title": "Augmenting Language Models with Long-Term Memory",
-              "description": "[code]",
+              "description": "Victorwz/LongMem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7803,7 +7760,7 @@
                 {
                   "node_type": "item",
                   "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-                  "description": "[code]",
+                  "description": "microsoft/SkillOpt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7816,7 +7773,7 @@
                     "open_issues": 45,
                     "owner": "microsoft",
                     "repo": "SkillOpt",
-                    "stars": 17949,
+                    "stars": 17963,
                     "topics": [
                       "agent-skills",
                       "self-evolving-agents"
@@ -7827,7 +7784,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-                  "description": "[code]",
+                  "description": "Gen-Verse/OpenClaw-RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7862,7 +7819,7 @@
                 {
                   "node_type": "item",
                   "title": "Memento 2: Learning by Stateful Reflective Memory",
-                  "description": "[code]",
+                  "description": "Memento-Teams/Memento",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7875,7 +7832,7 @@
                     "open_issues": 14,
                     "owner": "Memento-Teams",
                     "repo": "Memento",
-                    "stars": 2583,
+                    "stars": 2584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -7883,7 +7840,7 @@
                 {
                   "node_type": "item",
                   "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
-                  "description": "[code]",
+                  "description": "AlibabaResearch/DAMO-ConvAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7909,7 +7866,7 @@
                 {
                   "node_type": "item",
                   "title": "Memento-Skills: Let Agents Design Agents",
-                  "description": "[code]",
+                  "description": "Memento-Teams/Memento-Skills",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7930,7 +7887,7 @@
                 {
                   "node_type": "item",
                   "title": "Memory Intelligence Agent",
-                  "description": "[code]",
+                  "description": "ECNU-SII/MIA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7951,7 +7908,7 @@
                 {
                   "node_type": "item",
                   "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
-                  "description": "[code]",
+                  "description": "ViktorAxelsen/MemSkill",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7972,7 +7929,7 @@
                 {
                   "node_type": "item",
                   "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
-                  "description": "[code]",
+                  "description": "InternScience/MLEvolve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8014,7 +7971,7 @@
                 {
                   "node_type": "item",
                   "title": "PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory",
-                  "description": "[code]",
+                  "description": "xzf-thu/Pask",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8035,7 +7992,7 @@
                 {
                   "node_type": "item",
                   "title": "MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory",
-                  "description": "[code]",
+                  "description": "MemTensor/MemRL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8056,7 +8013,7 @@
                 {
                   "node_type": "item",
                   "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
-                  "description": "[code]",
+                  "description": "AweAI-Team/AiScientist",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8077,7 +8034,7 @@
                 {
                   "node_type": "item",
                   "title": "ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents",
-                  "description": "[code]",
+                  "description": "Miracle1207/Skill-Pro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8140,7 +8097,7 @@
                 {
                   "node_type": "item",
                   "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
-                  "description": "[code]",
+                  "description": "YihangChen9/Bilevel-Coordinated-Reflection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8196,7 +8153,7 @@
                 {
                   "node_type": "item",
                   "title": "Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution",
-                  "description": "[code]",
+                  "description": "agentscope-ai/ReMe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8209,7 +8166,7 @@
                     "open_issues": 45,
                     "owner": "agentscope-ai",
                     "repo": "ReMe",
-                    "stars": 3546,
+                    "stars": 3547,
                     "topics": [
                       "agent",
                       "ai-agents",
@@ -8228,7 +8185,7 @@
                 {
                   "node_type": "item",
                   "title": "Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
-                  "description": "[code]",
+                  "description": "Memento-Teams/Memento",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8241,7 +8198,7 @@
                     "open_issues": 14,
                     "owner": "Memento-Teams",
                     "repo": "Memento",
-                    "stars": 2583,
+                    "stars": 2584,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -8249,7 +8206,7 @@
                 {
                   "node_type": "item",
                   "title": "AgentEvolver: Towards Efficient Self-Evolving Agent System",
-                  "description": "[code]",
+                  "description": "modelscope/AgentEvolver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8276,7 +8233,7 @@
                 {
                   "node_type": "item",
                   "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
-                  "description": "[code]",
+                  "description": "BytedTsinghua-SIA/MemAgent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8297,7 +8254,7 @@
                 {
                   "node_type": "item",
                   "title": "General Agentic Memory via Deep Research",
-                  "description": "[code]",
+                  "description": "VectorSpaceLab/general-agentic-memory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8318,7 +8275,7 @@
                 {
                   "node_type": "item",
                   "title": "End-to-End Test-Time Training for Long Context",
-                  "description": "[code]",
+                  "description": "test-time-training/e2e",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8339,7 +8296,7 @@
                 {
                   "node_type": "item",
                   "title": "ML-Master: Towards AI-for-AI via Integration of Exploration and Reasoning",
-                  "description": "[code]",
+                  "description": "sjtu-sai-agents/ML-Master",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8360,7 +8317,7 @@
                 {
                   "node_type": "item",
                   "title": "MemEvolve: Meta-Evolution of Agent Memory Systems",
-                  "description": "[code]",
+                  "description": "bingreeky/MemEvolve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8373,7 +8330,7 @@
                     "open_issues": 2,
                     "owner": "bingreeky",
                     "repo": "MemEvolve",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -8381,7 +8338,7 @@
                 {
                   "node_type": "item",
                   "title": "Mem-α: Learning Memory Construction via Reinforcement Learning",
-                  "description": "[code]",
+                  "description": "wangyu-ustc/Mem-alpha",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8402,7 +8359,7 @@
                 {
                   "node_type": "item",
                   "title": "EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle",
-                  "description": "[code]",
+                  "description": "KnowledgeXLab/EvolveR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8423,7 +8380,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks",
-                  "description": "[code]",
+                  "description": "KnowledgeXLab/MUSE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8444,7 +8401,7 @@
                 {
                   "node_type": "item",
                   "title": "FLEX: Continuous Agent Evolution via Forward Learning from Experience",
-                  "description": "[code]",
+                  "description": "GenSI-THUAIR/FLEX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8479,7 +8436,7 @@
                 {
                   "node_type": "item",
                   "title": "LCM: Lossless Context Management",
-                  "description": "[code]",
+                  "description": "Martian-Engineering/lossless-claw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8492,7 +8449,7 @@
                     "open_issues": 245,
                     "owner": "Martian-Engineering",
                     "repo": "lossless-claw",
-                    "stars": 4906,
+                    "stars": 4903,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -8500,7 +8457,7 @@
                 {
                   "node_type": "item",
                   "title": "Code as Agent Harness",
-                  "description": "[code]",
+                  "description": "YennNing/Awesome-Code-as-Agent-Harness-Papers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8521,7 +8478,7 @@
                 {
                   "node_type": "item",
                   "title": "CL-bench: A Benchmark for Context Learning",
-                  "description": "[code]",
+                  "description": "Tencent-Hunyuan/CL-bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8546,7 +8503,7 @@
                 {
                   "node_type": "item",
                   "title": "SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents",
-                  "description": "[code]",
+                  "description": "Ayanami1314/swe-pruner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8596,7 +8553,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Harness: Harnesses That Improve Themselves",
-                  "description": "[code]",
+                  "description": "qzzqzzb/Self-Harness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8609,7 +8566,7 @@
                     "open_issues": 2,
                     "owner": "qzzqzzb",
                     "repo": "Self-Harness",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:39:39.983Z"
@@ -8617,7 +8574,7 @@
                 {
                   "node_type": "item",
                   "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
-                  "description": "[code]",
+                  "description": "zjunlp/LightRSI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8626,8 +8583,8 @@
                     "id": 1245290072,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T05:31:38Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-03T04:00:02Z",
+                    "open_issues": 0,
                     "owner": "zjunlp",
                     "repo": "LightRSI",
                     "stars": 71,
@@ -8660,7 +8617,7 @@
                 {
                   "node_type": "item",
                   "title": "AgentFold: Long-Horizon Web Agents with Proactive Context Management",
-                  "description": "[code]",
+                  "description": "Alibaba-NLP/DeepResearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8673,7 +8630,7 @@
                     "open_issues": 96,
                     "owner": "Alibaba-NLP",
                     "repo": "DeepResearch",
-                    "stars": 20003,
+                    "stars": 20001,
                     "topics": [
                       "agent",
                       "alibaba",
@@ -8691,7 +8648,7 @@
                 {
                   "node_type": "item",
                   "title": "Everything is Context: Agentic File System Abstraction for Context Engineering",
-                  "description": "[code]",
+                  "description": "AIGNE-io/aigne-framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8721,7 +8678,7 @@
                 {
                   "node_type": "item",
                   "title": "ACON: Optimizing Context Compression for Long-horizon LLM Agents",
-                  "description": "[code]",
+                  "description": "microsoft/acon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -8760,7 +8717,7 @@
             {
               "node_type": "item",
               "title": "A Neural Network Model of Free Recall Learns Multiple Memory Strategies",
-              "description": "[code]",
+              "description": "Veritaria/rnn-free-recall",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8781,7 +8738,7 @@
             {
               "node_type": "item",
               "title": "The Geometry of Forgetting",
-              "description": "[code]",
+              "description": "Dynamis-Labs/hide-project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8822,7 +8779,7 @@
             "id": 1159563091,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:25:16Z",
+            "last_commit": "2026-10-03T01:21:34Z",
             "open_issues": 21,
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
@@ -8899,7 +8856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:06:40.917Z",
+    "last_updated": "2026-10-03T04:24:09.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
