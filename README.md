@@ -119,14 +119,14 @@
 
 1. **[Claude-Mem](https://cmem.ai/)**
    ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social\&label=Star)
-   \[[code](https://github.com/thedotmack/claude-mem) ⭐ 119,872 | 🐛 112 | 🌐 TypeScript | 📅 2026-11-26]
+   \[[code](https://github.com/thedotmack/claude-mem) ⭐ 120,094 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-26]
    \[[docs](https://docs.claude-mem.ai/introduction)]
    \[[blog](https://cmem.ai/blog)]
    *Hook-based session capture compressed into searchable observations and re-injected into later sessions across Claude Code, Codex, Cursor, OpenClaw and other hosts; optional hosted cloud sync.*
 
 2. **[Mem0](https://mem0.ai/)**
    ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social\&label=Star)
-   \[[code](https://github.com/mem0ai/mem0) ⭐ 69,495 | 🐛 1,016 | 🌐 Python | 📅 2026-11-25]
+   \[[code](https://github.com/mem0ai/mem0) ⭐ 69,536 | 🐛 1,023 | 🌐 Python | 📅 2026-11-27]
    \[[docs](https://docs.mem0.ai/)]
    \[[paper](https://arxiv.org/abs/2504.19413)]
    \[[blog](https://mem0.ai/blog)]
@@ -141,14 +141,14 @@
 
 3. **[Hindsight](https://hindsight.vectorize.io/)**
    ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social\&label=Star)
-   \[[code](https://github.com/vectorize-io/hindsight) ⭐ 63,572 | 🐛 161 | 🌐 Python | 📅 2026-11-26]
+   \[[code](https://github.com/vectorize-io/hindsight) ⭐ 63,792 | 🐛 147 | 🌐 Python | 📅 2026-11-27]
    \[[paper](https://arxiv.org/abs/2512.12818)]
    \[[blog](https://hindsight.vectorize.io/blog)]
    *Agent memory layer that learns from interaction feedback to improve recall over time.*
 
 4. **[OpenViking](https://openviking.ai/)**
    ![Star](https://img.shields.io/github/stars/volcengine/OpenViking.svg?style=social\&label=Star)
-   \[[code](https://github.com/volcengine/OpenViking) ⭐ 42,846 | 🐛 1,719 | 🌐 Python | 📅 2026-11-26]
+   \[[code](https://github.com/volcengine/OpenViking) ⭐ 42,920 | 🐛 1,742 | 🌐 Python | 📅 2026-11-27]
    \[[docs](https://docs.openviking.ai/)]
    \[[paper1](https://arxiv.org/abs/2605.29640)]
    \[[paper2](https://arxiv.org/abs/2606.16903)]
@@ -157,36 +157,36 @@
 
 5. **[Cognee](https://www.cognee.ai/)**
    ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social\&label=Star)
-   \[[code](https://github.com/topoteretes/cognee) ⭐ 33,636 | 🐛 1,120 | 🌐 Python | 📅 2026-11-26]
+   \[[code](https://github.com/topoteretes/cognee) ⭐ 33,667 | 🐛 1,116 | 🌐 Python | 📅 2026-11-27]
    \[[paper](https://arxiv.org/abs/2505.24478)]
    \[[blog](https://www.cognee.ai/blog)]
    *Memory engine that ingests data into a hybrid graph + vector knowledge graph for cross-session agent recall.*
 
-6. **[gbrain](https://github.com/garrytan/gbrain) ⭐ 33,611 | 🐛 395 | 🌐 TypeScript | 📅 2026-11-26**
+6. **[gbrain](https://github.com/garrytan/gbrain) ⭐ 33,650 | 🐛 387 | 🌐 TypeScript | 📅 2026-11-27**
    ![Star](https://img.shields.io/github/stars/garrytan/gbrain.svg?style=social\&label=Star)
-   \[[code](https://github.com/garrytan/gbrain) ⭐ 33,611 | 🐛 395 | 🌐 TypeScript | 📅 2026-11-26]
+   \[[code](https://github.com/garrytan/gbrain) ⭐ 33,650 | 🐛 387 | 🌐 TypeScript | 📅 2026-11-27]
    *Garry's opinionated OpenClaw/Hermes agent brain.*
 
 7. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
    ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social\&label=Star)
-   \[[code](https://github.com/getzep/graphiti) ⭐ 33,107 | 🐛 586 | 🌐 Python | 📅 2026-11-26]
+   \[[code](https://github.com/getzep/graphiti) ⭐ 33,136 | 🐛 586 | 🌐 Python | 📅 2026-11-26]
    \[[paper](https://arxiv.org/abs/2501.13956)]
    \[[blog](https://blog.getzep.com/)]
    *Real-time temporal knowledge graphs for AI agents.*
 
-8. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ⭐ 31,205 | 🐛 871 | 🌐 TypeScript | 📅 2026-11-26**
+8. **[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory) ⭐ 31,222 | 🐛 850 | 🌐 TypeScript | 📅 2026-11-27**
    ![Star](https://img.shields.io/github/stars/Tencent/TencentDB-Agent-Memory.svg?style=social\&label=Star)
-   \[[code](https://github.com/Tencent/TencentDB-Agent-Memory) ⭐ 31,205 | 🐛 871 | 🌐 TypeScript | 📅 2026-11-26]
+   \[[code](https://github.com/Tencent/TencentDB-Agent-Memory) ⭐ 31,222 | 🐛 850 | 🌐 TypeScript | 📅 2026-11-27]
    *Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies.*
 
 9. **[agentmemory](https://www.agent-memory.dev/)**
    ![Star](https://img.shields.io/github/stars/rohitg00/agentmemory.svg?style=social\&label=Star)
-   \[[code](https://github.com/rohitg00/agentmemory) ⭐ 30,599 | 🐛 477 | 🌐 TypeScript | 📅 2026-11-26]
+   \[[code](https://github.com/rohitg00/agentmemory) ⭐ 30,615 | 🐛 476 | 🌐 TypeScript | 📅 2026-11-26]
    *Persistent memory for AI coding agents.*
 
 10. **[Letta (formerly MemGPT)](https://www.letta.com/)**
     ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social\&label=Star)
-    \[[code](https://github.com/letta-ai/letta) ⭐ 25,557 | 🐛 1 | 📅 2026-10-18]
+    \[[code](https://github.com/letta-ai/letta) ⭐ 25,566 | 🐛 1 | 📅 2026-10-18]
     \[[paper](https://arxiv.org/abs/2310.08560)]
     \[[research](https://www.letta.com/research)]
     \[[blog](https://www.letta.com/blog)]
@@ -194,42 +194,42 @@
 
 11. **[Second Me](https://home.second.me/)**
     ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social\&label=Star)
-    \[[code](https://github.com/mindverse/Second-Me) ⭐ 15,703 | 🐛 142 | 🌐 Python | 📅 2025-09-30]
+    \[[code](https://github.com/mindverse/Second-Me) ⭐ 15,704 | 🐛 142 | 🌐 Python | 📅 2025-09-30]
     \[[paper](https://arxiv.org/abs/2503.08102)]
     *Personal AI trained on the user to represent them across applications.*
 
 12. **[MemU](https://memu.pro/)**
     ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social\&label=Star)
-    \[[code](https://github.com/NevaMind-AI/memU) ⭐ 14,647 | 🐛 131 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/NevaMind-AI/memU) ⭐ 14,647 | 🐛 131 | 🌐 Python | 📅 2026-11-27]
     \[[blog](https://memu.pro/blog)]
     *Memory layer for 24/7 proactive agents.*
 
 13. **[EverOS (part of EverMind)](https://evermind-ai.com/)**
     ![Star](https://img.shields.io/github/stars/EverMind-AI/EverOS.svg?style=social\&label=Star)
-    \[[code](https://github.com/EverMind-AI/EverOS) ⭐ 14,010 | 🐛 52 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/EverMind-AI/EverOS) ⭐ 14,016 | 🐛 53 | 🌐 Python | 📅 2026-11-25]
     \[[blog](https://evermind-ai.com/blog/)]
     *Toolkit for building, evaluating, and integrating long-term memory in self-evolving agents.*
 
 14. **[MemOS (by MemTensor)](https://memos.openmem.net/)**
     ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social\&label=Star)
-    \[[code](https://github.com/MemTensor/MemOS) ⭐ 12,517 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-26]
+    \[[code](https://github.com/MemTensor/MemOS) ⭐ 12,523 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-27]
     \[[paper](https://arxiv.org/abs/2507.03724)]
     *Memory OS for LLM agents with hybrid retrieval and cross-task skill reuse.*
 
 15. **[MemoryBear](https://www.memorybear.ai/)**
     ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social\&label=Star)
-    \[[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear) ⭐ 10,228 | 🐛 4 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear) ⭐ 10,228 | 🐛 0 | 🌐 Python | 📅 2026-11-27]
     \[[paper](https://arxiv.org/abs/2512.20651)]
     *Memory framework providing human-like episodic and semantic recall to AI agents.*
 
-16. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram) ⭐ 8,321 | 🐛 56 | 🌐 Go | 📅 2026-11-24**
+16. **[engram (by Gentleman-Programming)](https://github.com/Gentleman-Programming/engram) ⭐ 8,330 | 🐛 58 | 🌐 Go | 📅 2026-11-24**
     ![Star](https://img.shields.io/github/stars/Gentleman-Programming/engram.svg?style=social\&label=Star)
-    \[[code](https://github.com/Gentleman-Programming/engram) ⭐ 8,321 | 🐛 56 | 🌐 Go | 📅 2026-11-24]
+    \[[code](https://github.com/Gentleman-Programming/engram) ⭐ 8,330 | 🐛 58 | 🌐 Go | 📅 2026-11-24]
     *Persistent memory for AI coding agents — agent-agnostic single Go binary with SQLite + FTS5, exposed via MCP server, HTTP API, CLI, and TUI.*
 
 17. **[Honcho](https://honcho.dev/)**
     ![Star](https://img.shields.io/github/stars/plastic-labs/honcho.svg?style=social\&label=Star)
-    \[[code](https://github.com/plastic-labs/honcho) ⭐ 8,297 | 🐛 205 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/plastic-labs/honcho) ⭐ 8,309 | 🐛 206 | 🌐 Python | 📅 2026-11-25]
     \[[research](https://blog.plasticlabs.ai/research/)]
     \[[blog](https://blog.plasticlabs.ai/)]
     \[[eval](https://evals.honcho.dev/)]
@@ -237,7 +237,7 @@
 
 18. **[OpenMemory](https://openmemory.cavira.app/)**
     ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social\&label=Star)
-    \[[code](https://github.com/caviraoss/openmemory) ⭐ 4,587 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-26]
+    \[[code](https://github.com/caviraoss/openmemory) ⭐ 4,590 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-26]
     *Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.).*
 
 19. **[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ⭐ 4,446 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-26**
@@ -254,54 +254,54 @@
     \[[blog](https://mirix.io/#/blog)]
     *Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory.*
 
-21. **[Omnigraph](https://github.com/ModernRelay/omnigraph) ⭐ 3,289 | 🐛 206 | 🌐 Rust | 📅 2026-11-26**
+21. **[Omnigraph](https://github.com/ModernRelay/omnigraph) ⭐ 3,312 | 🐛 203 | 🌐 Rust | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/ModernRelay/omnigraph.svg?style=social\&label=Star)
-    \[[code](https://github.com/ModernRelay/omnigraph) ⭐ 3,289 | 🐛 206 | 🌐 Rust | 📅 2026-11-26]
+    \[[code](https://github.com/ModernRelay/omnigraph) ⭐ 3,312 | 🐛 203 | 🌐 Rust | 📅 2026-11-27]
     *Object-storage-native graph engine for agent memory with git-style branch/merge workflows.*
 
 22. **[MemMachine](https://memmachine.ai/)**
     ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social\&label=Star)
-    \[[code](https://github.com/MemMachine/MemMachine) ⭐ 3,093 | 🐛 339 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/MemMachine/MemMachine) ⭐ 3,094 | 🐛 336 | 🌐 Python | 📅 2026-11-27]
     \[[blog](https://memmachine.ai/blog/)]
     *Interoperable memory layer providing extensible storage and retrieval primitives for AI agents.*
 
 23. **[Memobase](https://docs.memobase.io/)**
     ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social\&label=Star)
-    \[[code](https://github.com/memodb-io/memobase) ⭐ 2,968 | 🐛 37 | 🌐 Python | 📅 2026-01-11]
+    \[[code](https://github.com/memodb-io/memobase) ⭐ 2,968 | 🐛 39 | 🌐 Python | 📅 2026-01-11]
     *User profile-based long-term memory for AI chatbot applications.*
 
 24. **[Memanto](https://memanto.ai/)** ![Star](https://img.shields.io/github/stars/moorcheh-ai/memanto.svg?style=social\&label=Star)
-    \[[code](https://github.com/moorcheh-ai/memanto) ⭐ 2,422 | 🐛 5 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/moorcheh-ai/memanto) ⭐ 2,422 | 🐛 6 | 🌐 Python | 📅 2026-11-27]
     \[[paper](https://arxiv.org/abs/2604.22085)]
     \[[docs](https://docs.memanto.ai)]
     *Typed semantic memory with `remember`/`recall`/`answer` operations and information-theoretic retrieval.*
 
 25. **[PowerMem](https://www.powermem.ai)**
     ![Star](https://img.shields.io/github/stars/oceanbase/powermem.svg?style=social\&label=Star)
-    \[[code](https://github.com/oceanbase/powermem) ⭐ 1,829 | 🐛 160 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/oceanbase/powermem) ⭐ 1,882 | 🐛 175 | 🌐 Python | 📅 2026-11-26]
     *Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team.*
 
 26. **[LangMem](https://langchain-ai.github.io/langmem/)**
     ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social\&label=Star)
-    \[[code](https://github.com/langchain-ai/langmem) ⭐ 1,793 | 🐛 85 | 🌐 Python | 📅 2026-11-16]
+    \[[code](https://github.com/langchain-ai/langmem) ⭐ 1,794 | 🐛 85 | 🌐 Python | 📅 2026-11-16]
     \[[blog](https://blog.langchain.com/)]
     *LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows.*
 
 27. **[Puppyone](https://www.puppyone.ai)**
     ![Star](https://img.shields.io/github/stars/puppyone-ai/puppyone.svg?style=social\&label=Star)
-    \[[code](https://github.com/puppyone-ai/puppyone) ⭐ 1,704 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-25]
+    \[[code](https://github.com/puppyone-ai/puppyone) ⭐ 1,718 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-26]
     \[[docs](https://www.puppyone.ai/doc)]
     *Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI.*
 
-28. **[deja](https://github.com/vshulcz/deja-vu) ⭐ 1,678 | 🐛 4 | 🌐 Go | 📅 2026-11-26**
+28. **[deja](https://github.com/vshulcz/deja-vu) ⭐ 1,682 | 🐛 5 | 🌐 Go | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/vshulcz/deja-vu.svg?style=social\&label=Star)
-    \[[code](https://github.com/vshulcz/deja-vu) ⭐ 1,678 | 🐛 4 | 🌐 Go | 📅 2026-11-26]
+    \[[code](https://github.com/vshulcz/deja-vu) ⭐ 1,682 | 🐛 5 | 🌐 Go | 📅 2026-11-27]
     \[[eval](https://vshulcz.github.io/deja-vu/guide/benchmarks.html)]
     *Indexes session transcripts forty-three coding agents already write to disk, retroactively — local BM25 recall over them via hooks and MCP, credentials redacted at index time.*
 
 29. **[Mem9](https://mem9.ai/)**
     ![Star](https://img.shields.io/github/stars/mem9-ai/mem9.svg?style=social\&label=Star)
-    \[[code](https://github.com/mem9-ai/mem9) ⭐ 1,235 | 🐛 97 | 🌐 TypeScript | 📅 2026-11-04]
+    \[[code](https://github.com/mem9-ai/mem9) ⭐ 1,236 | 🐛 97 | 🌐 TypeScript | 📅 2026-11-04]
     \[[blog](https://addozhang.medium.com/keep-memory-local-building-a-private-openclaw-memory-hub-with-mem9-tidb-5b305345b40a)]
     *Local private memory hub for OpenClaw and similar coding agents.*
 
@@ -310,9 +310,9 @@
     \[[code](https://github.com/sno-ai/sno-station) ⭐ 1,028 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-26]
     *Codex, Claude Code, Cursor, Hermes Agent and OpenClaw share one local encrypted memory, so one continues another's task when it hits a usage limit.*
 
-31. **[Memorix](https://github.com/AVIDS2/memorix) ⭐ 953 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19**
+31. **[Memorix](https://github.com/AVIDS2/memorix) ⭐ 954 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-26**
     ![Star](https://img.shields.io/github/stars/AVIDS2/memorix.svg?style=social\&label=Star)
-    \[[code](https://github.com/AVIDS2/memorix) ⭐ 953 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19]
+    \[[code](https://github.com/AVIDS2/memorix) ⭐ 954 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-26]
     *Local-first cross-agent memory layer for coding agents via MCP — SQLite-backed project memory with observation, reasoning, and git-derived fact types, plus task-lensed context briefs.*
 
 32. **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 949 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-16**
@@ -327,33 +327,33 @@
     \[[paper](https://arxiv.org/abs/2606.12329)]
     *Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix.*
 
-34. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS) ⭐ 796 | 🐛 1 | 🌐 Python | 📅 2026-10-28**
-    ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social\&label=Star)
-    \[[code](https://github.com/Shadow-Weave/HMS) ⭐ 796 | 🐛 1 | 🌐 Python | 📅 2026-10-28]
-    *Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval.*
-
-35. **[hippo-memory](https://hippo-memory.com/)**
+34. **[hippo-memory](https://hippo-memory.com/)**
     ![Star](https://img.shields.io/github/stars/kitfunso/hippo-memory.svg?style=social\&label=Star)
-    \[[code](https://github.com/kitfunso/hippo-memory) ⭐ 796 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-26]
+    \[[code](https://github.com/kitfunso/hippo-memory) ⭐ 796 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-27]
     \[[eval](https://hippo-memory.com/benchmarks/)]
     *Local-first coding-agent memory (Claude Code, Codex, Cursor, MCP): SQLite with Markdown mirrors; saving calls no LLM, consolidation does when an API key is set.*
 
-36. **[Vestige](https://github.com/samvallad33/vestige) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-25**
-    ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social\&label=Star)
-    \[[code](https://github.com/samvallad33/vestige) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-25]
-    \[[release](https://github.com/samvallad33/vestige/releases/tag/v4.2.0) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-25]
-    *Local MCP memory server for coding agents on Strata, an append-only log with gated writes, receipts, and FSRS decay, plus a pre-tool action gate.*
+35. **[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS) ⭐ 795 | 🐛 1 | 🌐 Python | 📅 2026-10-28**
+    ![Star](https://img.shields.io/github/stars/Shadow-Weave/HMS.svg?style=social\&label=Star)
+    \[[code](https://github.com/Shadow-Weave/HMS) ⭐ 795 | 🐛 1 | 🌐 Python | 📅 2026-10-28]
+    *Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval.*
 
-37. **[Comma](https://comma.surf/)**
+36. **[Comma](https://comma.surf/)**
     ![Star](https://img.shields.io/github/stars/AFK-surf/Comma.svg?style=social\&label=Star)
-    \[[code](https://github.com/AFK-surf/Comma) ⭐ 652 | 🐛 14 | 🌐 Elixir | 📅 2026-11-24]
+    \[[code](https://github.com/AFK-surf/Comma) ⭐ 711 | 🐛 14 | 🌐 Elixir | 📅 2026-11-24]
     \[[blog](https://comma.surf/blog)]
     *Always-on personal agent that keeps owner-editable Markdown memory (user, people and environment notes, append-only daily episodes) searched on demand rather than preloaded, asks past Task workers what they remember, and can keep a short shared fact list in every session's context; hosted or self-hosted.*
 
-38. **[funes](https://github.com/huggingface/funes) ⭐ 605 | 🐛 6 | 🌐 Rust | 📅 2026-11-26**
+37. **[Vestige](https://github.com/samvallad33/vestige) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-26**
+    ![Star](https://img.shields.io/github/stars/samvallad33/vestige.svg?style=social\&label=Star)
+    \[[code](https://github.com/samvallad33/vestige) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-26]
+    \[[release](https://github.com/samvallad33/vestige/releases/tag/v4.2.0) ⭐ 664 | 🐛 0 | 🌐 Rust | 📅 2026-11-26]
+    *Local MCP memory server for coding agents on Strata, an append-only log with gated writes, receipts, and FSRS decay, plus a pre-tool action gate.*
+
+38. **[funes](https://github.com/huggingface/funes) ⭐ 606 | 🐛 4 | 🌐 Rust | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/huggingface/funes.svg?style=social\&label=Star)
-    \[[code](https://github.com/huggingface/funes) ⭐ 605 | 🐛 6 | 🌐 Rust | 📅 2026-11-26]
-    \[[docs](https://github.com/huggingface/funes/blob/main/docs/README.md) ⭐ 605 | 🐛 6 | 🌐 Rust | 📅 2026-11-26]
+    \[[code](https://github.com/huggingface/funes) ⭐ 606 | 🐛 4 | 🌐 Rust | 📅 2026-11-27]
+    \[[docs](https://github.com/huggingface/funes/blob/main/docs/README.md) ⭐ 606 | 🐛 4 | 🌐 Rust | 📅 2026-11-27]
     *Verbatim memory of Claude Code, Codex, pi and Hermes sessions: no LLM at ingest, reranked hybrid search over MCP, shareable as a Hugging Face dataset.*
 
 39. **[Caura (formerly MemClaw)](https://caura.ai)**
@@ -362,32 +362,32 @@
     \[[blog](https://caura.ai/blog)]
     *Governed shared memory for AI agent fleets — cross-agent knowledge sharing with permissions, audit trails, and self-learning.*
 
-40. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet) ⭐ 567 | 🐛 679 | 🌐 Python | 📅 2026-11-26**
+40. **[MisakaNet](https://github.com/Ikalus1988/MisakaNet) ⭐ 567 | 🐛 684 | 🌐 Python | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/Ikalus1988/MisakaNet.svg?style=social\&label=Star)
-    \[[code](https://github.com/Ikalus1988/MisakaNet) ⭐ 567 | 🐛 679 | 🌐 Python | 📅 2026-11-26]
-    \[[wiki](https://github.com/Ikalus1988/MisakaNet/wiki) ⭐ 567 | 🐛 679 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/Ikalus1988/MisakaNet) ⭐ 567 | 🐛 684 | 🌐 Python | 📅 2026-11-27]
+    \[[wiki](https://github.com/Ikalus1988/MisakaNet/wiki) ⭐ 567 | 🐛 684 | 🌐 Python | 📅 2026-11-27]
     *Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues.*
 
 41. **[Wenlan](https://wenlan.app/)**
     ![Star](https://img.shields.io/github/stars/7xuanlu/wenlan.svg?style=social\&label=Star)
-    \[[code](https://github.com/7xuanlu/wenlan) ⭐ 502 | 🐛 10 | 🌐 Rust | 📅 2026-11-26]
+    \[[code](https://github.com/7xuanlu/wenlan) ⭐ 501 | 🐛 12 | 🌐 Rust | 📅 2026-11-27]
     \[[docs](https://wenlan.app/docs)]
     *Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients.*
 
-42. **[Compartment](https://github.com/MaxFreedomPollard/Compartment) ⭐ 473 | 🐛 4 | 🌐 Python | 📅 2026-11-22**
+42. **[Compartment](https://github.com/MaxFreedomPollard/Compartment) ⭐ 472 | 🐛 4 | 🌐 Python | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/MaxFreedomPollard/Compartment.svg?style=social\&label=Star)
-    \[[code](https://github.com/MaxFreedomPollard/Compartment) ⭐ 473 | 🐛 4 | 🌐 Python | 📅 2026-11-22]
+    \[[code](https://github.com/MaxFreedomPollard/Compartment) ⭐ 472 | 🐛 4 | 🌐 Python | 📅 2026-11-27]
     *Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log.*
 
 43. **[MemoSync](https://baiqiaozhang.cc/memosync/)**
     ![Star](https://img.shields.io/github/stars/SLEEPYBQ/MemoSync.svg?style=social\&label=Star)
-    \[[code](https://github.com/SLEEPYBQ/MemoSync) ⭐ 424 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-26]
+    \[[code](https://github.com/SLEEPYBQ/MemoSync) ⭐ 426 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-26]
     *Local workbench for Claude Code, Codex, Pi and OpenCode where the user reviews memory changes, picks each turn's memory, and checks citations and compliance.*
 
 44. **[Uteke](https://uteke.app)**
     ![Star](https://img.shields.io/github/stars/codecoradev/uteke.svg?style=social\&label=Star)
-    \[[code](https://github.com/codecoradev/uteke) ⭐ 293 | 🐛 9 | 🌐 Rust | 📅 2026-11-26]
-    \[[eval](https://github.com/codecoradev/uteke/blob/b76866d6c167d5c328f92c3507f9c43ba0476333/benchmarks/longmemeval/RESULTS.md) ⭐ 293 | 🐛 9 | 🌐 Rust | 📅 2026-11-26]
+    \[[code](https://github.com/codecoradev/uteke) ⭐ 293 | 🐛 13 | 🌐 Rust | 📅 2026-11-27]
+    \[[eval](https://github.com/codecoradev/uteke/blob/b76866d6c167d5c328f92c3507f9c43ba0476333/benchmarks/longmemeval/RESULTS.md) ⭐ 293 | 🐛 13 | 🌐 Rust | 📅 2026-11-27]
     *Local-first long-term memory for AI agents in Rust: hybrid vector and full-text recall, shared rooms, point-in-time recall, MCP server.*
 
 45. **[Mnemory](https://github.com/fpytloun/mnemory) ⭐ 284 | 🐛 0 | 🌐 Python | 📅 2026-11-22** ![Star](https://img.shields.io/github/stars/fpytloun/mnemory.svg?style=social\&label=Star)
@@ -396,23 +396,23 @@
 
 46. **[Statewave](https://statewave.ai/)**
     ![Star](https://img.shields.io/github/stars/smaramwbc/statewave.svg?style=social\&label=Star)
-    \[[code](https://github.com/smaramwbc/statewave) ⭐ 259 | 🐛 42 | 🌐 Python | 📅 2026-11-19]
+    \[[code](https://github.com/smaramwbc/statewave) ⭐ 259 | 🐛 42 | 🌐 Python | 📅 2026-11-26]
     \[[docs](https://github.com/smaramwbc/statewave-docs) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-10-29]
     \[[blog](https://www.statewave.ai/blog)]
     *Open-source memory runtime for AI agents serving reproducible, provenance-tagged context bundles instead of query-time retrieval; self-hosted on Postgres + pgvector with Python/TypeScript SDKs.*
 
-47. **[Remnic](https://remnic.ai/)**
+47. **[ClickHouse Loom](https://loom.clickhouse.com/docs)**
+    ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social\&label=Star)
+    \[[code](https://github.com/ClickHouse/loom) ⭐ 244 | 🐛 183 | 🌐 Python | 📅 2026-11-27]
+    \[[eval](https://loom.clickhouse.com/docs/benchmarks/results)]
+    *Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse.*
+
+48. **[Remnic](https://remnic.ai/)**
     ![Star](https://img.shields.io/github/stars/joshuaswarren/remnic.svg?style=social\&label=Star)
-    \[[code](https://github.com/joshuaswarren/remnic) ⭐ 235 | 🐛 38 | 🌐 TypeScript | 📅 2026-11-24]
+    \[[code](https://github.com/joshuaswarren/remnic) ⭐ 235 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-27]
     \[[docs](https://remnic.ai/guides/)]
     \[[paper](https://doi.org/10.5281/zenodo.21922631)]
     *Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark.*
-
-48. **[ClickHouse Loom](https://loom.clickhouse.com/docs)**
-    ![Star](https://img.shields.io/github/stars/ClickHouse/loom.svg?style=social\&label=Star)
-    \[[code](https://github.com/ClickHouse/loom) ⭐ 231 | 🐛 152 | 🌐 Python | 📅 2026-11-26]
-    \[[eval](https://loom.clickhouse.com/docs/benchmarks/results)]
-    *Self-hosted MCP server and HTTP API giving agents shared long-term memory, cited document search and a repository code index, stored in ClickHouse.*
 
 49. **[OMEGA](https://omegamax.co)** ![Star](https://img.shields.io/github/stars/omega-memory/omega-memory.svg?style=social\&label=Star)
     \[[code](https://github.com/omega-memory/omega-memory) ⭐ 226 | 🐛 2 | 🌐 Python | 📅 2026-10-09]
@@ -425,9 +425,9 @@
     \[[docs](https://belief-context-graph.docs.buildwithfern.com/)]
     *Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark.*
 
-51. **[Engramory](https://github.com/tinqiao-oss/engramory) ⭐ 212 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25**
+51. **[Engramory](https://github.com/tinqiao-oss/engramory) ⭐ 213 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25**
     ![Star](https://img.shields.io/github/stars/tinqiao-oss/engramory.svg?style=social\&label=Star)
-    \[[code](https://github.com/tinqiao-oss/engramory) ⭐ 212 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25]
+    \[[code](https://github.com/tinqiao-oss/engramory) ⭐ 213 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25]
     *General-purpose long-term memory layer for AI agents: one markdown file per memory, a size-capped pointer index read every session, and a read-only validator.*
 
 52. **[Memov](https://www.memov.ai/)**
@@ -437,8 +437,8 @@
 
 53. **[ZizkaDB](https://db.zizka.ai/)**
     ![Star](https://img.shields.io/github/stars/ZIZKA-AI-SL/ZizkaDB.svg?style=social\&label=Star)
-    \[[code](https://github.com/ZIZKA-AI-SL/ZizkaDB) ⭐ 164 | 🐛 58 | 🌐 Python | 📅 2026-11-25]
-    \[[docs](https://github.com/ZIZKA-AI-SL/ZizkaDB/wiki) ⭐ 164 | 🐛 58 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/ZIZKA-AI-SL/ZizkaDB) ⭐ 164 | 🐛 58 | 🌐 Python | 📅 2026-11-26]
+    \[[docs](https://github.com/ZIZKA-AI-SL/ZizkaDB/wiki) ⭐ 164 | 🐛 58 | 🌐 Python | 📅 2026-11-26]
     *Audit-trail database for AI agents whose logged events double as memory: hash-chained log with parent links, why-queries, point-in-time state, ranked context for prompts; MCP, SDKs.*
 
 54. **[Mnemosyne (by 28naem-del)](https://mnemosy.ai)**
@@ -455,8 +455,8 @@
 
 56. **[openJiuwen agent-memory](https://gitcode.com/openJiuwen/agent-memory)**
     ![Star](https://img.shields.io/github/stars/openJiuwen-ai/agent-memory.svg?style=social\&label=Star)
-    \[[code](https://github.com/openJiuwen-ai/agent-memory) ⭐ 123 | 🐛 136 | 🌐 Python | 📅 2026-11-26]
-    \[[docs](https://github.com/openJiuwen-ai/agent-memory/tree/mem2.0/docs/en) ⭐ 123 | 🐛 136 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/openJiuwen-ai/agent-memory) ⭐ 130 | 🐛 135 | 🌐 Python | 📅 2026-11-27]
+    \[[docs](https://github.com/openJiuwen-ai/agent-memory/tree/mem2.0/docs/en) ⭐ 130 | 🐛 135 | 🌐 Python | 📅 2026-11-27]
     *Framework-agnostic long-term memory from openJiuwen: layered extraction into facts, events and profiles, hybrid BM25/vector recall with reranking, scope isolation; Python SDK, HTTP API, CLI, MCP.*
 
 57. **[causal-memory](https://github.com/JingxuanC/causal-memory) ⭐ 111 | 🐛 14 | 🌐 Rust | 📅 2026-11-04**
@@ -481,202 +481,202 @@
     \[[docs](https://docs.maximem.ai)]
     *Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks.*
 
-60. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
+60. **[Lint-AI](https://github.com/RooAGI/Lint-AI) ⭐ 78 | 🐛 0 | 🌐 Rust | 📅 2026-11-26**
+    ![Star](https://img.shields.io/github/stars/RooAGI/Lint-AI.svg?style=social\&label=Star)
+    \[[code](https://github.com/RooAGI/Lint-AI) ⭐ 78 | 🐛 0 | 🌐 Rust | 📅 2026-11-26]
+    *Agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions.*
+
+61. **[LWC](https://janyork.github.io/llm-wiki-cli/)**
     ![Star](https://img.shields.io/github/stars/JanYork/llm-wiki-cli.svg?style=social\&label=Star)
-    \[[code](https://github.com/JanYork/llm-wiki-cli) ⭐ 74 | 🐛 0 | 🌐 Rust | 📅 2026-10-07]
+    \[[code](https://github.com/JanYork/llm-wiki-cli) ⭐ 75 | 🐛 0 | 🌐 Rust | 📅 2026-10-07]
     *Agent-operated persistent memory CLI with source-cited Wiki pages, full-text search, document graphs, and CodeGraph indexes for cross-session project recall.*
 
-61. **[Atris](https://atris.ai)**
+62. **[Atris](https://atris.ai)**
     ![Star](https://img.shields.io/github/stars/atrislabs/atris.svg?style=social\&label=Star)
-    \[[code](https://github.com/atrislabs/atris) ⭐ 71 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-25]
+    \[[code](https://github.com/atrislabs/atris) ⭐ 71 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-27]
     *Agent workspace CLI whose project memory is repo-local Markdown (file:line map, linked wiki, daily logs) that Claude Code, Codex and Cursor read and write.*
 
-62. **[RetainDB](https://retaindb.com)**
+63. **[RetainDB](https://retaindb.com)**
     ![Star](https://img.shields.io/github/stars/RetainDB/RetainDB.svg?style=social\&label=Star)
     \[[code](https://github.com/RetainDB/RetainDB) ⭐ 67 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-12]
     *Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server.*
 
-63. **[Renor](https://renor.cloud)**
+64. **[Renor](https://renor.cloud)**
     ![Star](https://img.shields.io/github/stars/renorai/renor-engine.svg?style=social\&label=Star)
     \[[code](https://github.com/renorai/renor-engine) ⭐ 58 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-24]
     \[[docs](https://renor.mintlify.app)]
     *Coding-agent memory over MCP: one owner's Markdown notes, recalled across Claude Code, Codex and Cursor by keyword or optional embedding search; hosted or self-hosted.*
 
-64. **[widemem-ai](https://widemem.ai)**
+65. **[widemem-ai](https://widemem.ai)**
     ![Star](https://img.shields.io/github/stars/remete618/widemem-ai.svg?style=social\&label=Star)
     \[[code](https://github.com/remete618/widemem-ai) ⭐ 50 | 🐛 10 | 🌐 Python | 📅 2026-10-24]
     *Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy.*
 
-65. **[memclaw (Felo)](https://memclaw.me)**
+66. **[memclaw (Felo)](https://memclaw.me)**
     ![Star](https://img.shields.io/github/stars/Felo-Inc/memclaw.svg?style=social\&label=Star)
     \[[code](https://github.com/Felo-Inc/memclaw) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-23]
     *Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration.*
 
-66. **[IHMT](https://github.com/gonzaroman/IHMT-MEMORY) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-11-10**
+67. **[IHMT](https://github.com/gonzaroman/IHMT-MEMORY) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-11-10**
     ![Star](https://img.shields.io/github/stars/gonzaroman/IHMT-MEMORY.svg?style=social\&label=Star)
     \[[code](https://github.com/gonzaroman/IHMT-MEMORY) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-11-10]
     \[[eval](https://github.com/gonzaroman/IHMT-MEMORY/blob/main/GUIDE.md#11-honest-numbers) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-11-10]
     *Local MCP memory for coding agents: a tree of plain-text leaves and JSON summaries, with dated facts and OUTDATED/AMBIGUOUS notices, shared across agents.*
 
-67. **[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)**
+68. **[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)**
     ![Star](https://img.shields.io/github/stars/Darwin-Agent/Mi-Memory.svg?style=social\&label=Star)
     \[[code](https://github.com/Darwin-Agent/Mi-Memory) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2026-08-19]
     \[[docs](https://darwin-agent.github.io/Mi-Memory/)]
     \[[paper](https://arxiv.org/abs/2607.18975)]
     *Lifecycle memory framework for personal assistant agents from Xiaomi's Darwin Agent team; multi-source user state with provenance, editable correction and forgetting, device-adaptive deployment.*
 
-68. **[Data Olympus](https://github.com/knaisoma/data-olympus) ⭐ 31 | 🐛 66 | 🌐 Python | 📅 2026-11-25**
+69. **[Data Olympus](https://github.com/knaisoma/data-olympus) ⭐ 31 | 🐛 67 | 🌐 Python | 📅 2026-11-25**
     ![Star](https://img.shields.io/github/stars/knaisoma/data-olympus.svg?style=social\&label=Star)
-    \[[code](https://github.com/knaisoma/data-olympus) ⭐ 31 | 🐛 66 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/knaisoma/data-olympus) ⭐ 31 | 🐛 67 | 🌐 Python | 📅 2026-11-25]
     *Governed project memory for AI coding agents: agents propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks.*
 
-69. **[ZenBrain](https://zensation.ai/en)**
+70. **[ZenBrain](https://zensation.ai/en)**
     ![Star](https://img.shields.io/github/stars/zensation-ai/zenbrain.svg?style=social\&label=Star)
-    \[[code](https://github.com/zensation-ai/zenbrain) ⭐ 30 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-23]
+    \[[code](https://github.com/zensation-ai/zenbrain) ⭐ 30 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26]
     \[[paper](https://arxiv.org/abs/2604.23878)]
     *Neuroscience-inspired 7-layer memory architecture for autonomous agents in zero-dependency TypeScript, with FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation.*
 
-70. **[Mnemoverse](https://mnemoverse.com)**
+71. **[Mnemoverse](https://mnemoverse.com)**
     ![Star](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server.svg?style=social\&label=Star)
     \[[code](https://github.com/mnemoverse/mcp-memory-server) ⭐ 30 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-23]
     \[[docs](https://mnemoverse.com/docs/)]
     *Hosted long-term memory for agents over MCP and REST; rating a recalled memory as helpful or misleading re-ranks what comes back next; MIT-licensed MCP server.*
 
-71. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-08-11**
+72. **[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-08-11**
     ![Star](https://img.shields.io/github/stars/wenxiaof345-ctrl/vanilla-rag-memory.svg?style=social\&label=Star)
     \[[code](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-08-11]
     *Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-72. **[Selvedge](https://selvedge.sh)**
+73. **[Selvedge](https://selvedge.sh)**
     ![Star](https://img.shields.io/github/stars/masondelan/selvedge.svg?style=social\&label=Star)
     \[[code](https://github.com/masondelan/selvedge) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2026-11-23]
     \[[docs](https://selvedge.sh/reference/compatibility/)]
     *Local decision memory for coding agents: records code decisions, rejected approaches and revisit conditions in SQLite; retrieved through MCP or CLI.*
 
-73. **[LLMSlim](https://www.llmslim.app)**
+74. **[LLMSlim](https://www.llmslim.app)**
     ![Star](https://img.shields.io/github/stars/Thanatos9404/llmslim.svg?style=social\&label=Star)
     \[[code](https://github.com/Thanatos9404/llmslim) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-11-23]
     \[[docs](https://github.com/Thanatos9404/llmslim/blob/main/docs/MEMORY.md) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2026-11-23]
     *Context-compression library whose no-LLM memory stores turns verbatim in SQLite or Postgres and recalls them, whole where they fit, within a token budget; stdio MCP.*
 
-74. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
+75. **[Fidelis Memory](https://hermes-labs.ai/fidelis)**
     ![Star](https://img.shields.io/github/stars/hermes-labs-ai/fidelis.svg?style=social\&label=Star)
     \[[code](https://github.com/hermes-labs-ai/fidelis) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-10-19]
     \[[eval](https://github.com/hermes-labs-ai/fidelis/blob/b938676affd47f2a6e0a5106c44336fa11f4e92f/bench/results-default-0.3.0rc1.json) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-10-19]
     *Local-first memory for coding agents: MCP recall returns original passages verbatim via vector search, with an explicit BM25/RRF hybrid mode; no generative LLM in retrieval.*
 
-75. **[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26**
+76. **[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26**
     ![Star](https://img.shields.io/github/stars/enhesa/big-agentic-brain.svg?style=social\&label=Star)
     \[[code](https://github.com/enhesa/big-agentic-brain) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26]
     \[[blog](https://nevolin.be/blog/unlocking-swarm-intelligence-big-agentic-brain-claude-code)]
     \[[eval](https://nevolin.be/assets/blog/coding-agents-shared-team-memory/report.pdf)]
     *Self-hosted shared memory for an organization's agents: one container on SQLite, BM25 search boosted by agents' reactions, and agent-to-agent messages; MCP or HTTP API.*
 
-76. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
+77. **[Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)**
     ![Star](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory.svg?style=social\&label=Star)
     \[[code](https://github.com/TerminallyLazy/Tree-Ring-Memory) ⭐ 24 | 🐛 3 | 🌐 Rust | 📅 2026-09-17]
     *Local-first memory lifecycle for AI agents with a Rust CLI, SQLite/FTS recall, audit, forgetting, consolidation, and Ratatui TUI.*
 
-77. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core) ⭐ 22 | 🐛 29 | 🌐 Python | 📅 2026-11-25**
+78. **[Synap Core](https://github.com/maximem-ai/maximem_synap_core) ⭐ 22 | 🐛 27 | 🌐 Python | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/maximem-ai/maximem_synap_core.svg?style=social\&label=Star)
-    \[[code](https://github.com/maximem-ai/maximem_synap_core) ⭐ 22 | 🐛 29 | 🌐 Python | 📅 2026-11-25]
+    \[[code](https://github.com/maximem-ai/maximem_synap_core) ⭐ 22 | 🐛 27 | 🌐 Python | 📅 2026-11-27]
     \[[docs](https://docs.maximem.ai/core/quickstart)]
-    \[[eval](https://github.com/maximem-ai/maximem_synap_core/blob/main/benchmarks/RESULTS.md) ⭐ 22 | 🐛 29 | 🌐 Python | 📅 2026-11-25]
+    \[[eval](https://github.com/maximem-ai/maximem_synap_core/blob/main/benchmarks/RESULTS.md) ⭐ 22 | 🐛 27 | 🌐 Python | 📅 2026-11-27]
     *Self-hosted memory server: extracts facts, preferences, events and episodes with the user's LLM, resolves entities, vector + graph retrieval; Docker Compose stack, shares Synap's SDKs.*
 
-78. **[daimon](https://daily-nerd.github.io/daimon/)**
+79. **[daimon](https://daily-nerd.github.io/daimon/)**
     ![Star](https://img.shields.io/github/stars/Daily-Nerd/daimon.svg?style=social\&label=Star)
-    \[[code](https://github.com/Daily-Nerd/daimon) ⭐ 21 | 🐛 20 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/Daily-Nerd/daimon) ⭐ 21 | 🐛 19 | 🌐 Python | 📅 2026-11-27]
     *Session-continuity memory for coding agents: session-end checkpoints become next-session briefings with items tagged verbatim or inferred; human-ratified rules can block shell commands.*
 
-79. **[GoodMemory](https://github.com/hjqcan/GoodMemory) ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-20**
+80. **[GoodMemory](https://github.com/hjqcan/GoodMemory) ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-20**
     ![Star](https://img.shields.io/github/stars/hjqcan/GoodMemory.svg?style=social\&label=Star)
     \[[code](https://github.com/hjqcan/GoodMemory) ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-20]
     \[[docs](https://github.com/hjqcan/GoodMemory#quickstart-codex-or-claude-code-memory) ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-20]
     *Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback.*
 
-80. **[ReFind](https://github.com/imlrz/ReFind) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-08-14**
+81. **[ReFind](https://github.com/imlrz/ReFind) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-08-14**
     ![Star](https://img.shields.io/github/stars/imlrz/ReFind.svg?style=social\&label=Star)
     \[[code](https://github.com/imlrz/ReFind) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-08-14]
     *Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-81. **[Agentic Task System](https://github.com/renezander030/agentic-task-system) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24**
+82. **[Agentic Task System](https://github.com/renezander030/agentic-task-system) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24**
     ![Star](https://img.shields.io/github/stars/renezander030/agentic-task-system.svg?style=social\&label=Star)
     \[[code](https://github.com/renezander030/agentic-task-system) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-24]
     *Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters.*
 
-82. **[A3M Router](https://github.com/Das-rebel/a3m-router) ⭐ 18 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-25**
+83. **[A3M Router](https://github.com/Das-rebel/a3m-router) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25**
     ![Star](https://img.shields.io/github/stars/Das-rebel/a3m-router.svg?style=social\&label=Star)
-    \[[code](https://github.com/Das-rebel/a3m-router) ⭐ 18 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-25]
+    \[[code](https://github.com/Das-rebel/a3m-router) ⭐ 18 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25]
     *Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration.*
 
-83. **[Lians agent memory](https://www.lians.ai/)**
+84. **[Lians agent memory](https://www.lians.ai/)**
     ![Star](https://img.shields.io/github/stars/Lians-ai/Lians.svg?style=social\&label=Star)
     \[[code](https://github.com/Lians-ai/Lians) ⭐ 17 | 🐛 29 | 🌐 Python | 📅 2026-11-09]
     \[[eval](https://github.com/Lians-ai/Lians/blob/master/docs/benchmark.md) ⭐ 17 | 🐛 29 | 🌐 Python | 📅 2026-11-09]
     *Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage.*
 
-84. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-11-25**
+85. **[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-11-25**
     ![Star](https://img.shields.io/github/stars/Palo-Alto-AI-Research-Lab/sqlite-graph-memory.svg?style=social\&label=Star)
     \[[code](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2026-11-25]
     *Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger.*
 
-85. **[Counterparts](https://github.com/mlapeter/counterparts) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-26**
+86. **[Counterparts](https://github.com/mlapeter/counterparts) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-26**
     ![Star](https://img.shields.io/github/stars/mlapeter/counterparts.svg?style=social\&label=Star)
     \[[code](https://github.com/mlapeter/counterparts) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-26]
     *Long-term memory for Claude Code: Claude writes its own memories each session, unused ones fade, and everything stays in local SQLite.*
 
-86. **[AtMem](https://github.com/aetna000/atmem) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-22**
+87. **[AtMem](https://github.com/aetna000/atmem) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/aetna000/atmem.svg?style=social\&label=Star)
-    \[[code](https://github.com/aetna000/atmem) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-22]
+    \[[code](https://github.com/aetna000/atmem) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-27]
     *Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard.*
 
-87. **[VOOL](https://github.com/Parad0x-Labs/vool) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-26**
+88. **[VOOL](https://github.com/Parad0x-Labs/vool) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-27**
     ![Star](https://img.shields.io/github/stars/Parad0x-Labs/vool.svg?style=social\&label=Star)
-    \[[code](https://github.com/Parad0x-Labs/vool) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-26]
-    \[[eval](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-26]
+    \[[code](https://github.com/Parad0x-Labs/vool) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-27]
+    \[[eval](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-11-27]
     *Local-first personal agent whose cross-session memory is readable files (MEMORY.md plus an entries store), embedded on-device, with verified forgetting; cloud models optional.*
 
-88. **[myc](https://aistastudio.github.io/myc/)**
+89. **[myc](https://aistastudio.github.io/myc/)**
     ![Star](https://img.shields.io/github/stars/aistastudio/myc.svg?style=social\&label=Star)
     \[[code](https://github.com/aistastudio/myc) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18]
     \[[docs](https://aistastudio.github.io/myc/)]
     *Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite.*
 
-89. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-03**
+90. **[FluctlightDB](https://github.com/voxmastery/FluctlightDB) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-03**
     ![Star](https://img.shields.io/github/stars/voxmastery/FluctlightDB.svg?style=social\&label=Star)
     \[[code](https://github.com/voxmastery/FluctlightDB) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-03]
     \[[paper](https://doi.org/10.5281/zenodo.20949890)]
     *Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation.*
 
-90. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-26**
+91. **[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-26**
     ![Star](https://img.shields.io/github/stars/ashmoonori-afk/birkin-mnemosyne.svg?style=social\&label=Star)
     \[[code](https://github.com/ashmoonori-afk/birkin-mnemosyne) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
     *Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server.*
 
-91. **[Lockstep](https://www.getlockstep.dev)**
+92. **[Lockstep](https://www.getlockstep.dev)**
     ![Star](https://img.shields.io/github/stars/lockstep-team-agent/lockstep.svg?style=social\&label=Star)
     \[[code](https://github.com/lockstep-team-agent/lockstep) ⭐ 12 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-24]
     *Shared decision ledger for teams using AI coding agents: records accepted decisions, rationale, and rejected options, and briefs new agent sessions via MCP.*
 
-92. **[skillmem](https://skillmem.dev)**
+93. **[skillmem](https://skillmem.dev)**
     ![Star](https://img.shields.io/github/stars/liza-studio/skillmem.svg?style=social\&label=Star)
     \[[code](https://github.com/liza-studio/skillmem) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2026-11-08]
     *Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server.*
-
-93. **[Lint-AI](https://github.com/RooAGI/Lint-AI) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-11-26**
-    ![Star](https://img.shields.io/github/stars/RooAGI/Lint-AI.svg?style=social\&label=Star)
-    \[[code](https://github.com/RooAGI/Lint-AI) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-11-26]
-    *Agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions.*
 
 94. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2026-11-16**
     ![Star](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg?style=social\&label=Star)
     \[[code](https://github.com/louis030195/hyperconsciousness) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2026-11-16]
     *Encrypted, append-only knowledge store for humans and agents: signed records sync across devices and are exposed through scoped, expiring grants over MCP.*
 
-95. **[Pulse](https://github.com/muhammademanaftab/pulse) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2026-11-24**
+95. **[Pulse](https://github.com/muhammademanaftab/pulse) ⭐ 10 | 🐛 7 | 🌐 Python | 📅 2026-11-24**
     ![Star](https://img.shields.io/github/stars/muhammademanaftab/pulse.svg?style=social\&label=Star)
-    \[[code](https://github.com/muhammademanaftab/pulse) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2026-11-24]
+    \[[code](https://github.com/muhammademanaftab/pulse) ⭐ 10 | 🐛 7 | 🌐 Python | 📅 2026-11-24]
     *Claude Code Stop hook records sessions to the user's Convex deployment; nightly, Claude writes Markdown daily and project notes that a recall skill keyword-searches.*
 
 96. **[elephant](https://github.com/tonone-ai/elephant) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-14**
@@ -712,8 +712,8 @@
 
 102. **[RE-call](https://giulioder.github.io/RE-call/)**
      ![Star](https://img.shields.io/github/stars/GiulioDER/RE-call.svg?style=social\&label=Star)
-     \[[code](https://github.com/GiulioDER/RE-call) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-11-26]
-     \[[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-11-26]
+     \[[code](https://github.com/GiulioDER/RE-call) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2026-11-27]
+     \[[docs](https://github.com/GiulioDER/RE-call/blob/master/docs/USING_WITH_CLAUDE.md) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2026-11-27]
      \[[eval](https://giulioder.github.io/RE-call/benchmarks.html)]
      *Agent memory on SQLite or PostgreSQL with pgvector, returning verdict, confidence and provenance per result, flagging superseded facts and abstaining when evidence is insufficient.*
 
@@ -729,7 +729,7 @@
 
 105. **[Fraise](https://getfraise.dev)**
      ![Star](https://img.shields.io/github/stars/FraiseHQ/fraise.svg?style=social\&label=Star)
-     \[[code](https://github.com/FraiseHQ/fraise) ⭐ 8 | 🐛 127 | 🌐 Go | 📅 2026-11-26]
+     \[[code](https://github.com/FraiseHQ/fraise) ⭐ 8 | 🐛 125 | 🌐 Go | 📅 2026-11-26]
      \[[docs](https://docs.getfraise.dev/docs)]
      \[[eval](https://github.com/RonsenbergVI/agent-memory-benchmarks/blob/main/RESULTS.md) ⭐ 2 | 🐛 37 | 🌐 Python | 📅 2026-11-24]
      *In-memory temporal graph database for agents, queried with remember/recall verbs over HTTP or MCP; hybrid text, graph and optional vector retrieval; no persistence yet (2026-10).*
@@ -784,40 +784,41 @@
      \[[eval](https://github.com/kannaka-labs/kannaka-bench/blob/master/RESULTS.md) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-11-05]
      *Rust agent memory as a wave-interference medium: phase-coded wavefronts, bilateral hemispheres, dream consolidation and forgetting, NATS swarm sync; CLI and MCP plugin.*
 
-115. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-13**
-     ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social\&label=Star)
-     \[[code](https://github.com/chenhz01/agent-memory-doctor) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-13]
-     *Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action.*
-
-116. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-26**
+115. **[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-26**
      ![Star](https://img.shields.io/github/stars/secondbrainstarter/verified-memory-vault.svg?style=social\&label=Star)
      \[[code](https://github.com/secondbrainstarter/verified-memory-vault) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-26]
      *Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions.*
 
-117. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
+116. **[MoobFS](https://studiomoob.github.io/llmoobfs/)**
      ![Star](https://img.shields.io/github/stars/studiomoob/llmoobfs.svg?style=social\&label=Star)
      \[[code](https://github.com/studiomoob/llmoobfs) ⭐ 3 | 🐛 4 | 🌐 C | 📅 2026-11-24]
      *Experimental Linux filesystem for agent-memory storage, with typed extended attributes and permission-scoped queries; developed with AI assistance, for disposable-VM evaluation.*
 
-118. **[PackRat](https://github.com/kevdogg102396-afk/packrat) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-17**
+117. **[PackRat](https://github.com/kevdogg102396-afk/packrat) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-17**
      ![Star](https://img.shields.io/github/stars/kevdogg102396-afk/packrat.svg?style=social\&label=Star)
      \[[code](https://github.com/kevdogg102396-afk/packrat) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-17]
      *Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable.*
 
-119. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-29**
+118. **[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-29**
      ![Star](https://img.shields.io/github/stars/Tin11Mn/chrono-hybrid-mem.svg?style=social\&label=Star)
      \[[code](https://github.com/Tin11Mn/chrono-hybrid-mem) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-29]
      *Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-120. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-24**
+119. **[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-24**
      ![Star](https://img.shields.io/github/stars/tonydzi/claude-memory-tidy.svg?style=social\&label=Star)
      \[[code](https://github.com/tonydzi/claude-memory-tidy) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-11-24]
      *Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation.*
 
-121. **[Project Noosphere](https://projectnoosphere.org/)**
+120. **[Project Noosphere](https://projectnoosphere.org/)**
      ![Star](https://img.shields.io/github/stars/GoodyGoodyGoody/projectnoosphere.svg?style=social\&label=Star)
-     \[[code](https://github.com/GoodyGoodyGoody/projectnoosphere) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25]
+     \[[code](https://github.com/GoodyGoodyGoody/projectnoosphere) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-27]
      *Hosted knowledge commons for agents over MCP: search sourced findings and how-tos, report whether they worked, propose revisions; CC0 content, submissions LLM-reviewed nightly.*
+
+121. **[Anamnema](https://anamnema.mattexb.net)**
+     ![Star](https://img.shields.io/github/stars/mattexb/Anamnema.svg?style=social\&label=Star)
+     \[[code](https://github.com/mattexb/Anamnema) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-24]
+     \[[paper](https://doi.org/10.5281/zenodo.24438533)]
+     *Claude Code memory whose notes keep their source lines, return through hooks, and are checked and corrected against that source; Neo4j and MongoDB, self-hosted.*
 
 122. **[memgres](https://github.com/mozgsml/memgres) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-24**
      ![Star](https://img.shields.io/github/stars/mozgsml/memgres.svg?style=social\&label=Star)
@@ -855,104 +856,103 @@
      \[[code](https://github.com/Roxy-DD/fatfish-heart) ⭐ 1 | 🐛 5 | 🌐 Python | 📅 2026-11-23]
      *Episodic memory plugin for DeepSeek Harness in one local SQLite file: entries are invalidated rather than deleted, and vector and FTS5 indexes can be rebuilt.*
 
-129. **[Anamnema](https://anamnema.mattexb.net)**
-     ![Star](https://img.shields.io/github/stars/mattexb/Anamnema.svg?style=social\&label=Star)
-     \[[code](https://github.com/mattexb/Anamnema) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-24]
-     \[[paper](https://doi.org/10.5281/zenodo.24438533)]
-     *Claude Code memory whose notes keep their source lines, return through hooks, and are checked and corrected against that source; Neo4j and MongoDB, self-hosted.*
-
-130. **[Essence](https://essence.mabus.ai)**
+129. **[Essence](https://essence.mabus.ai)**
      ![Star](https://img.shields.io/github/stars/dpdanpittman/essence.svg?style=social\&label=Star)
      \[[code](https://github.com/dpdanpittman/essence) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
      \[[docs](https://github.com/dpdanpittman/essence/blob/main/docs/setup.md) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
      *Claude Code hooks and Markdown files (a portrait, per-area landscapes, monthly notes) that carry an agent's identity and work context across sessions.*
 
-131. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-30**
+130. **[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-30**
      ![Star](https://img.shields.io/github/stars/xiaofanliu525-ctrl/suyi-memory.svg?style=social\&label=Star)
      \[[code](https://github.com/xiaofanliu525-ctrl/suyi-memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-30]
      *Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization.*
 
-132. **[Panella](https://panella.tech)**
+131. **[Panella](https://panella.tech)**
      ![Star](https://img.shields.io/github/stars/panellatech/panella.svg?style=social\&label=Star)
      \[[code](https://github.com/panellatech/panella) ⭐ 0 | 🐛 18 | 🌐 Python | 📅 2026-09-13]
      *Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0.*
 
-133. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-12**
+132. **[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-12**
      ![Star](https://img.shields.io/github/stars/cydd-1972/hybrid_search.svg?style=social\&label=Star)
      \[[code](https://github.com/cydd-1972/hybrid_search) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-12]
      *Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-134. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-19**
+133. **[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-19**
      ![Star](https://img.shields.io/github/stars/simple-boy/Chronicle-Memory.svg?style=social\&label=Star)
      \[[code](https://github.com/simple-boy/Chronicle-Memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-19]
      *Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-135. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-06**
+134. **[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-06**
      ![Star](https://img.shields.io/github/stars/llLAlisa/memory-agent-submission.svg?style=social\&label=Star)
      \[[code](https://github.com/llLAlisa/memory-agent-submission) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-06]
      *FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 as LLLMemoryAgent, Agent Memory Leaderboard (academic textual, 2026-08).*
 
-136. **[FeedRecall](https://github.com/Paoladev45/feedrecall) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02**
+135. **[FeedRecall](https://github.com/Paoladev45/feedrecall) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02**
      ![Star](https://img.shields.io/github/stars/Paoladev45/feedrecall.svg?style=social\&label=Star)
      \[[code](https://github.com/Paoladev45/feedrecall) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02]
      *Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents.*
 
-137. **[RCLL](https://rcll.ai)**
+136. **[RCLL](https://rcll.ai)**
      ![Star](https://img.shields.io/github/stars/holetron-lab/fleet-memory.svg?style=social\&label=Star)
      \[[code](https://github.com/holetron-lab/fleet-memory) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-28]
      \[[docs](https://rcll.ai/docs/)]
      \[[eval](https://rcll.ai/docs/benchmarks/)]
      *Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight.*
 
-138. **[notebook.py](https://github.com/minjimindypark/llmcompressor) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-06**
+137. **[notebook.py](https://github.com/minjimindypark/llmcompressor) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-06**
      ![Star](https://img.shields.io/github/stars/minjimindypark/llmcompressor.svg?style=social\&label=Star)
      \[[code](https://github.com/minjimindypark/llmcompressor) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-06]
      *Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries.*
 
-139. **[kith](https://github.com/theNamek/kith) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-01**
+138. **[kith](https://github.com/theNamek/kith) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-01**
      ![Star](https://img.shields.io/github/stars/theNamek/kith.svg?style=social\&label=Star)
      \[[code](https://github.com/theNamek/kith) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-01]
      \[[eval](https://github.com/theNamek/kith/tree/main/examples/delegation_sim) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-01]
      *Relationship memory between agents on SQLite: append-only observations derive trust, reliability, and sentiment views with per-entry visibility scopes.*
 
-140. **[alethech](https://alethech.alicelabs.site/)**
+139. **[alethech](https://alethech.alicelabs.site/)**
      ![Star](https://img.shields.io/github/stars/eddyflores100-lang/alethech.svg?style=social\&label=Star)
-     \[[code](https://github.com/eddyflores100-lang/alethech) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-11-23]
+     \[[code](https://github.com/eddyflores100-lang/alethech) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-11-26]
      *Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM.*
 
-141. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-23**
+140. **[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-23**
      ![Star](https://img.shields.io/github/stars/gujing-hub/agent-memory-recall.svg?style=social\&label=Star)
      \[[code](https://github.com/gujing-hub/agent-memory-recall) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-23]
      *Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders.*
 
-142. **[Revo](https://github.com/shyringo/revo) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09**
+141. **[Revo](https://github.com/shyringo/revo) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09**
      ![Star](https://img.shields.io/github/stars/shyringo/revo.svg?style=social\&label=Star)
      \[[code](https://github.com/shyringo/revo) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09]
      *Self-starting terminal coding agent whose append-only JSONL life log keeps keyword-recalled memories, intentions and obligations across restarts; graceful sleep adds a model-written continuity capsule.*
 
-143. **[Axonio](https://axonio.xyz/)**
+142. **[Axonio](https://axonio.xyz/)**
      ![Star](https://img.shields.io/github/stars/hackcat29/ClawDB.svg?style=social\&label=Star)
      \[[code](https://github.com/hackcat29/ClawDB) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-11-10]
      \[[docs](https://axonio.xyz/docs/)]
      *Formerly ClawDB; stores agent memories with vector and keyword retrieval and memory branches, accessed through MCP and HTTP.*
+
+143. **[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)**
+     ![Star](https://img.shields.io/github/stars/chenhz01/agent-memory-doctor.svg?style=social\&label=Star)
+     \[[code](https://github.com/chenhz01/agent-memory-doctor)]
+     *Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action.*
 
 </details>
 
 ### Closed-Source
 
 * [Context Mode](https://context-mode.com/)
-  \[[source-available](https://github.com/mksglu/context-mode) ⭐ 34,506 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-26]
-  \[[license](https://github.com/mksglu/context-mode/blob/main/LICENSE) ⭐ 34,506 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-26]
+  \[[source-available](https://github.com/mksglu/context-mode) ⭐ 34,537 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-27]
+  \[[license](https://github.com/mksglu/context-mode/blob/main/LICENSE) ⭐ 34,537 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-27]
   *Context-window optimization for AI coding agents: diverts large tool outputs into a locally searchable store and persists session memory across platforms via MCP and hooks.*
 
 * [Supermemory](https://supermemory.ai/)
-  \[[code](https://github.com/supermemoryai/supermemory) ⭐ 31,795 | 🐛 68 | 🌐 TypeScript | 📅 2026-11-26]
+  \[[code](https://github.com/supermemoryai/supermemory) ⭐ 31,867 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-26]
   \[[docs](https://supermemory.ai/docs)]
   *Memory API, hosted or free self-hosted; SDKs, MCP server, and dashboard are MIT, but the memory engine ships only as a prebuilt binary.*
 
 * [screenpipe](https://screenpipe.com)
-  \[[source-available](https://github.com/screenpipe/screenpipe) ⭐ 22,553 | 🐛 25 | 🌐 Rust | 📅 2026-11-26]
-  \[[license](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) ⭐ 22,553 | 🐛 25 | 🌐 Rust | 📅 2026-11-26]
+  \[[source-available](https://github.com/screenpipe/screenpipe) ⭐ 22,568 | 🐛 24 | 🌐 Rust | 📅 2026-11-27]
+  \[[license](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) ⭐ 22,568 | 🐛 24 | 🌐 Rust | 📅 2026-11-27]
   \[[docs](https://docs.screenpi.pe)]
   *Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval.*
 
@@ -964,8 +964,8 @@
   *LLM-curated hierarchical context tree for coding agents, with git-like branching, cloud sync, and MCP; formerly Cipher.*
 
 * [Agent QA](https://vostride.com/docs/agent-qa)
-  \[[source-available](https://github.com/vostride/agent-qa) ⭐ 822 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24]
-  \[[license](https://github.com/vostride/agent-qa/blob/main/LICENSE.md) ⭐ 822 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24]
+  \[[source-available](https://github.com/vostride/agent-qa) ⭐ 824 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24]
+  \[[license](https://github.com/vostride/agent-qa/blob/main/LICENSE.md) ⭐ 824 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24]
   *QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests.*
 
 * [Membase](https://membase.com/)
@@ -975,7 +975,7 @@
   *Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine.*
 
 * [ContextStream](https://contextstream.io)
-  \[[partial-code](https://github.com/contextstream/mcp-server) ⭐ 49 | 🐛 5 | 🌐 Rust | 📅 2026-11-26]
+  \[[partial-code](https://github.com/contextstream/mcp-server) ⭐ 49 | 🐛 4 | 🌐 Rust | 📅 2026-11-27]
   \[[docs](https://contextstream.io/docs/mcp)]
   \[[eval](https://contextstream.io/benchmarks)]
   *Hosted MCP context layer for coding agents: persistent decisions and lessons, semantic code search, post-compaction recovery; MIT-licensed Rust client, hosted backend closed-source.*
@@ -986,13 +986,13 @@
   *Hosted cross-agent memory over MCP: agents search lessons (fixes, mistakes, version changes) other agents wrote, add their own, and start suggested skills or MCP servers.*
 
 * [Mnemosyne OS](https://mnemosyne-os.io/)
-  \[[code](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25]
+  \[[code](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/tree/main/packages/mcp) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-27]
   \[[docs](https://docs.mnemosyne-os.io/)]
   \[[eval](https://github.com/Mnemosyne-OS/MnemosyneOS---benchmarks) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-11-24]
   *Desktop memory app (Windows, macOS, Linux); watched folders feed separate vaults; vector and local BM25 search; MIT MCP server; BEAM 49.2% at 10M, self-reported.*
 
 * [HydraDB](https://hydradb.com/)
-  \[[code](https://github.com/hydra-db/hydradb-mcp) ⭐ 12 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-25]
+  \[[code](https://github.com/hydra-db/hydradb-mcp) ⭐ 13 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-26]
   \[[docs](https://docs.hydradb.com/essentials/v2/memories)]
   *Hosted knowledge-graph context API for agents: memories, stored as sent or extracted from dialogue and logs, are queried alongside synced company knowledge; Apache-2.0 MCP server.*
 
@@ -1075,7 +1075,7 @@
   \[[platform](https://platform.memorax.net/)]
   *Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1, Agent Memory Leaderboard (industry textual, 2026-08).*
   * [MemoraX Code](https://code.memorax.net/)\
-    \[[code](https://github.com/memorax-ai/memorax-code) ⭐ 2,278 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-24]
+    \[[code](https://github.com/memorax-ai/memorax-code) ⭐ 2,278 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-24]
     *Coding-agent memory product—not a text-chatbot memory layer—that carries engineering experience, repository knowledge, preferences, and procedures across tasks and sessions.*
 
 * [MemoryLake](https://www.memorylake.ai/en)
@@ -1152,13 +1152,13 @@
 
 *Projects that are inactive or whose claims have been disputed by third parties. Status labels link to the evidence and note when the status was last checked.*
 
-* [MemPalace](https://github.com/MemPalace/mempalace) ⭐ 60,717 | 🐛 844 | 🌐 Python | 📅 2026-11-26 ⚠️ Disputed (third-party critiques challenge the project's core claims; last checked 2026-07)
-  \[[code](https://github.com/milla-jovovich/mempalace) ⭐ 60,717 | 🐛 844 | 🌐 Python | 📅 2026-11-26]
+* [MemPalace](https://github.com/MemPalace/mempalace) ⭐ 60,736 | 🐛 847 | 🌐 Python | 📅 2026-11-27 ⚠️ Disputed (third-party critiques challenge the project's core claims; last checked 2026-07)
+  \[[code](https://github.com/milla-jovovich/mempalace) ⭐ 60,736 | 🐛 847 | 🌐 Python | 📅 2026-11-27]
   \[[critique1](https://www.youtube.com/watch?v=WlxNNvDHJkE), [critique2](https://penfieldlabs.substack.com/p/milla-jovovich-just-released-an-ai)]
   *Developed by actress [Milla Jovovich](https://en.wikipedia.org/wiki/Milla_Jovovich) and her friends*
 
 * [Memvid](https://www.memvid.com/) ⚠️ Disputed (technical critique raised in GitHub issues, since deleted but archived; last checked 2026-07)
-  \[[code](https://github.com/Olow304/memvid) ⭐ 17,441 | 🐛 45 | 🌐 Rust | 📅 2026-07-14]
+  \[[code](https://github.com/Olow304/memvid) ⭐ 17,438 | 🐛 45 | 🌐 Rust | 📅 2026-07-14]
   \[[critique (archived)](https://web.archive.org/web/20250807093442/https://github.com/Olow304/memvid/issues/49)]
 
 * [Memary](https://kingjulio8238.github.io/memarydocs/) ❄️ Inactive (no significant development activity; last checked 2026-07)
@@ -1179,8 +1179,8 @@
 
 #### 🗓️ 2026
 
-* **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) ⭐ 1,155 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-11-01** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
-  \[[code](https://github.com/NirDiamant/Agent_Memory_Techniques) ⭐ 1,155 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-11-01]
+* **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) ⭐ 1,154 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-11-01** (NirDiamant): 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, Graphiti, and LoCoMo benchmarks
+  \[[code](https://github.com/NirDiamant/Agent_Memory_Techniques) ⭐ 1,154 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-11-01]
 
 * **[Choose an agent-memory architecture](https://sir-ad.github.io/awesome-memory/guide.html)** (sir-ad): Decision guide mapping four memory jobs to five architecture patterns, minimum controls, evaluation baselines, and primary research.
 
@@ -1204,20 +1204,20 @@
 #### 🗓️ 2026
 
 * **[Toward Efficient Agents: Memory, Tool Learning, and Planning](https://arxiv.org/abs/2601.14192)**
-  \[[code](https://github.com/yxf203/Awesome-Efficient-Agents) ⭐ 322 | 🐛 2 | 📅 2026-11-19]
+  \[[code](https://github.com/yxf203/Awesome-Efficient-Agents) ⭐ 322 | 🐛 3 | 📅 2026-11-19]
 
 * **[Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey](https://arxiv.org/abs/2602.06052)**
   \[[code](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory) ⭐ 254 | 🐛 10 | 📅 2026-07-23]
 
 * **[Always-On Personal Intelligence: A Roadmap Towards Continuing, Self-Evolving Loops (Chapter 4)](https://www.preprints.org/manuscript/202611.0793)**
-  \[[code](https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2026-11-25]
+  \[[code](https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-11-25]
   \[[proj](https://always-on-intelligence.github.io/)]
   \[[HALO](https://github.com/Always-On-Intelligence/HALO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-11-09]
 
 * [Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends](https://github.com/BAI-LAB/Survey-on-AI-Memory/blob/main/Survey%20on%20AI%20Memory.pdf) ⭐ 104 | 🐛 1 | 📅 2026-03-30
 
 * **[From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://arxiv.org/abs/2605.06716)**
-  \[[code](https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey) ⭐ 64 | 🐛 4 | 📅 2026-04-13]
+  \[[code](https://github.com/FeishuLuo/Evolving-LLM-Agent-Memory-Survey) ⭐ 65 | 🐛 4 | 📅 2026-04-13]
 
 * **[Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications](https://www.preprints.org/manuscript/202607.1539)**
   \[[code](https://github.com/Xzcv-hub/Awesome-Memory-in-VLM) ⭐ 38 | 🐛 2 | 📅 2026-10-04]
@@ -1271,11 +1271,11 @@
 #### 🗓️ 2026
 
 * **[Agent Memory Leaderboard](https://agentmemories.ai/home)**
-  \[[code](https://github.com/AML-memory/agent-memory-leaderboard) ⭐ 1,260 | 🐛 5 | 🌐 Python | 📅 2026-11-02]
+  \[[code](https://github.com/AML-memory/agent-memory-leaderboard) ⭐ 1,286 | 🐛 5 | 🌐 Python | 📅 2026-11-27]
   *Public evaluation platform: participants expose Add/Search APIs and are scored on textual-memory and coding-agent-memory tracks.*
 
 * **LoCoMo Refined: Recalibrating LoCoMo with Stricter LLM Judging and A Cleaned Dataset**
-  \[[code](https://github.com/mem-eval-suite/LoCoMo_refined) ⭐ 737 | 🐛 11 | 🌐 Python | 📅 2026-05-18]
+  \[[code](https://github.com/mem-eval-suite/LoCoMo_refined) ⭐ 743 | 🐛 11 | 🌐 Python | 📅 2026-05-18]
 
 * **[Agent Memory Benchmark (AMB)](https://agentmemorybenchmark.ai/)**
   \[[code](https://github.com/vectorize-io/agent-memory-benchmark) ⭐ 172 | 🐛 37 | 🌐 Python | 📅 2026-11-23]
@@ -1286,7 +1286,7 @@
   \[[code](https://github.com/OpenDataBox/MemoryData) ⭐ 153 | 🐛 3 | 🌐 Python | 📅 2026-07-05]
 
 * **OmniMemEval**
-  \[[code](https://github.com/MemTensor/OmniMemEval) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2026-11-17]
+  \[[code](https://github.com/MemTensor/OmniMemEval) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2026-11-17]
 
 * **[Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents](https://arxiv.org/abs/2602.10715)**
   \[[code](https://github.com/xjtuleeyf/Locomo-Plus) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-02-13]
@@ -1311,15 +1311,15 @@
   \[[code](https://github.com/HUST-AI-HYZ/MemoryAgentBench) ⭐ 491 | 🐛 6 | 🌐 Python | 📅 2026-09-25]
   \[[data](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench)]
 
+* **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)**
+  (The PersonaMem and ImplicitPersona Paper)
+  \[[code](https://github.com/bowen-upenn/PersonaMem) ⭐ 210 | 🐛 7 | 🌐 Python | 📅 2026-09-06]
+  \[[data1](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
+  \[[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
+
 * **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
   \[[code](https://github.com/adobe-research/NoLiMa) ⭐ 210 | 🐛 6 | 🌐 Python | 📅 2025-07-17]
   \[[data](https://github.com/adobe-research/NoLiMa/tree/main/data) ⭐ 210 | 🐛 6 | 🌐 Python | 📅 2025-07-17]
-
-* **[Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale](https://arxiv.org/abs/2504.14225)**
-  (The PersonaMem and ImplicitPersona Paper)
-  \[[code](https://github.com/bowen-upenn/PersonaMem) ⭐ 209 | 🐛 7 | 🌐 Python | 📅 2026-09-06]
-  \[[data1](https://huggingface.co/datasets/bowen-upenn/PersonaMem)]
-  \[[data2](https://huggingface.co/datasets/bowen-upenn/ImplicitPersona)]
 
 * **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](https://arxiv.org/abs/2511.03506)**
   \[[code](https://github.com/MemTensor/HaluMem) ⭐ 181 | 🐛 1 | 🌐 Python | 📅 2026-10-28]
@@ -1353,8 +1353,8 @@
 
 * **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)**
   (The LoCoMo Paper)
-  \[[code](https://github.com/snap-research/LoCoMo) ⭐ 1,289 | 🐛 40 | 🌐 Python | 📅 2024-08-13]
-  \[[data](https://github.com/snap-research/locomo/tree/main/data) ⭐ 1,289 | 🐛 40 | 🌐 Python | 📅 2024-08-13]
+  \[[code](https://github.com/snap-research/LoCoMo) ⭐ 1,292 | 🐛 40 | 🌐 Python | 📅 2024-08-13]
+  \[[data](https://github.com/snap-research/locomo/tree/main/data) ⭐ 1,292 | 🐛 40 | 🌐 Python | 📅 2024-08-13]
 
 * **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
   \[[code](https://github.com/THUDM/LongBench) ⭐ 1,255 | 🐛 69 | 🌐 Python | 📅 2025-01-15]
@@ -1422,7 +1422,7 @@
 #### 🗓️ 2025
 
 * **[Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075v3)**
-  \[[code](https://github.com/MME-Benchmarks/Video-MME) ⭐ 805 | 🐛 11 | 📅 2025-12-08]
+  \[[code](https://github.com/MME-Benchmarks/Video-MME) ⭐ 806 | 🐛 11 | 📅 2025-12-08]
 
 * **[LVBench: An Extreme Long Video Understanding Benchmark](https://arxiv.org/abs/2406.08035)**
   \[[code](https://github.com/zai-org/LVBench) ⭐ 158 | 🐛 12 | 🌐 Python | 📅 2025-07-09]
@@ -1460,7 +1460,7 @@
   \[[data](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)]
 
 * **[Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments](https://arxiv.org/abs/2606.05661)**
-  \[[code](https://github.com/pgasawa/continual-learning-bench) ⭐ 253 | 🐛 31 | 🌐 Python | 📅 2026-07-19]
+  \[[code](https://github.com/pgasawa/continual-learning-bench) ⭐ 254 | 🐛 31 | 🌐 Python | 📅 2026-07-19]
 
 * **[AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations](https://arxiv.org/abs/2603.01966)**
   \[[code](https://github.com/AGI-Eval-Official/amemgym) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2026-04-07]
@@ -1476,7 +1476,7 @@
 
 * **[Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences](https://arxiv.org/abs/2610.30485)**
   (The MemPABench Paper)
-  \[[code](https://github.com/mempabench/mempabench) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-23]
+  \[[code](https://github.com/mempabench/mempabench) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-23]
   \[[data](https://huggingface.co/datasets/mempabench/mempabench-personas)]
   \[[proj](https://mempabench.com/)]
 
@@ -1500,7 +1500,7 @@
 #### 🗓️ 2024
 
 * **[AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901)**
-  \[[code](https://github.com/StonyBrookNLP/appworld) ⭐ 560 | 🐛 18 | 🌐 Python | 📅 2026-11-15]
+  \[[code](https://github.com/StonyBrookNLP/appworld) ⭐ 561 | 🐛 18 | 🌐 Python | 📅 2026-11-15]
 
 ***
 
@@ -1511,10 +1511,10 @@
 #### 🗓️ 2026
 
 * **[EvolveMem: Self-Evolving Memory Architecture via AutoResearch for LLM Agents](https://arxiv.org/abs/2605.13941)**
-  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,880 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
+  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,882 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
 
 * **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553)**
-  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,880 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
+  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,882 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
 
 * **[StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748)**
   \[[code](https://github.com/zjunlp/LightMem) ⭐ 1,230 | 🐛 14 | 🌐 Python | 📅 2026-11-17]
@@ -1527,13 +1527,13 @@
   \[[code](https://github.com/MemTensor/MemPrivacy) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
 
 * **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007)**
-  \[[code](https://github.com/HU-xiaobai/xMemory) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2026-10-13]
+  \[[code](https://github.com/HU-xiaobai/xMemory) ⭐ 126 | 🐛 2 | 🌐 Python | 📅 2026-10-13]
 
 * **[Mandol: An Agglomerative Agent Memory System for Long-Term Conversations](https://arxiv.org/abs/2606.29778)**
   \[[code](https://github.com/AgentCombo/Mandol) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-11-04]
 
 * **[Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought](https://arxiv.org/abs/2610.30755)** (Raw-RAG)
-  \[[code](https://github.com/Litmeb/RAW-RAG) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-10-25]
+  \[[code](https://github.com/Litmeb/RAW-RAG) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-10-25]
 
 * **[EvoMemState: Evolving Memory State for Personal Agents](https://arxiv.org/abs/2611.03743)**
   \[[code](https://github.com/XMUDeepLIT/EvoMemState) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-11-06]
@@ -1624,7 +1624,7 @@
 #### 🗓️ 2026
 
 * **[HyperMem: Hypergraph Memory for Long-Term Conversations](https://arxiv.org/abs/2604.08256)**
-  \[[code](https://github.com/EverMind-AI/EverOS) ⭐ 14,010 | 🐛 52 | 🌐 Python | 📅 2026-11-25]
+  \[[code](https://github.com/EverMind-AI/EverOS) ⭐ 14,016 | 🐛 53 | 🌐 Python | 📅 2026-11-25]
 
 * **[Rethinking Memory as Continuously Evolving Connectivity](https://arxiv.org/abs/2605.28773)** (FluxMem)
   \[[code](https://github.com/zjunlp/LightMem) ⭐ 1,230 | 🐛 14 | 🌐 Python | 📅 2026-11-17]
@@ -1670,7 +1670,7 @@
 #### 🗓️ 2025
 
 * **[From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802)**
-  \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,141 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
+  \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,144 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
 
 * **[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957)**
   \[[code](https://github.com/Mirix-AI/MIRIX) ⭐ 3,518 | 🐛 42 | 🌐 Python | 📅 2026-11-11]
@@ -1695,7 +1695,7 @@
 #### 🗓️ 2024
 
 * **[HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)**
-  \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,141 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
+  \[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,144 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
 
 * **[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)**
   \[[code](https://github.com/AIRI-Institute/AriGraph) ⭐ 176 | 🐛 3 | 🌐 Inform 7 | 📅 2024-09-10]
@@ -1705,17 +1705,17 @@
 #### 🗓️ 2026
 
 * **[Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)**
-  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,880 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
+  \[[code](https://github.com/aiming-lab/SimpleMem) ⭐ 3,882 | 🐛 11 | 🌐 Python | 📅 2026-07-24]
 
 * **[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://arxiv.org/abs/2608.26005)**
-  \[[code](https://github.com/xzf-thu/VoiceMem) ⭐ 2,903 | 🐛 9 | 🌐 Python | 📅 2026-09-14]
+  \[[code](https://github.com/xzf-thu/VoiceMem) ⭐ 2,903 | 🐛 8 | 🌐 Python | 📅 2026-09-14]
   \[[proj](https://xzf-thu.github.io/VoiceMem/)]
 
 * **[EM²Mem: Event-Centric Multimodal Memory for Large Language Models](https://aclanthology.org/2026.findings-emnlp.903/)**
   \[[code](https://github.com/zjunlp/LightMem) ⭐ 1,230 | 🐛 14 | 🌐 Python | 📅 2026-11-17]
 
 * **[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762)**
-  \[[code](https://github.com/MCG-NJU/OneStreamer) ⭐ 251 | 🐛 5 | 🌐 Python | 📅 2026-11-19]
+  \[[code](https://github.com/MCG-NJU/OneStreamer) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2026-11-19]
 
 * **[LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487)**
   \[[code](https://github.com/zjunlp/LightMem-Ego) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2026-11-23]
@@ -1728,7 +1728,7 @@
   \[[code](https://github.com/haowei-freesky/HERMES) ⭐ 115 | 🐛 1 | 🌐 Python | 📅 2026-05-08]
 
 * **[MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management](https://arxiv.org/abs/2606.19926)**
-  \[[code](https://github.com/kwai/MemGUI-Agent) ⭐ 96 | 🐛 1 | 🌐 Python | 📅 2026-08-29]
+  \[[code](https://github.com/kwai/MemGUI-Agent) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2026-08-29]
   \[[proj](https://memgui-agent.github.io/)]
 
 * **[FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](https://arxiv.org/abs/2603.02096)**
@@ -1742,7 +1742,7 @@
   \[[code](https://github.com/jinshilong-dev/SE-GA) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-06-02]
 
 * **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329)**
-  \[[code](https://github.com/lingcco/EventMemAgent) ⭐ 18 | 🐛 5 | 🌐 Python | 📅 2026-09-08]
+  \[[code](https://github.com/lingcco/EventMemAgent) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2026-09-08]
 
 * **[M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions](https://arxiv.org/abs/2602.07624)**
   \[[code](https://github.com/Little-Fridge/M2A) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-02-20]
@@ -1775,7 +1775,7 @@
   \[[code](https://github.com/wgcyeo/WorldMM) ⭐ 139 | 🐛 3 | 🌐 Python | 📅 2026-07-29]
 
 * **[VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](https://arxiv.org/abs/2511.11007)**
-  \[[code](https://github.com/YU-deep/VisMem) ⭐ 100 | 🐛 7 | 🌐 Python | 📅 2026-02-05]
+  \[[code](https://github.com/YU-deep/VisMem) ⭐ 101 | 🐛 7 | 🌐 Python | 📅 2026-02-05]
 
 * **[HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding](https://arxiv.org/abs/2504.10739)**
   \[[code](https://github.com/linyueqian/HippoMM) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-05-22]
@@ -1794,10 +1794,10 @@
 #### 🗓️ 2024
 
 * **[VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)**
-  \[[code](https://github.com/HKUDS/VideoAgent) ⭐ 2,065 | 🐛 14 | 🌐 Python | 📅 2026-07-22]
+  \[[code](https://github.com/HKUDS/VideoAgent) ⭐ 2,165 | 🐛 15 | 🌐 Python | 📅 2026-07-22]
 
 * **[VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling](https://arxiv.org/abs/2501.00574)**
-  \[[code](https://github.com/OpenGVLab/VideoChat-Flash) ⭐ 531 | 🐛 11 | 🌐 Python | 📅 2026-07-19]
+  \[[code](https://github.com/OpenGVLab/VideoChat-Flash) ⭐ 530 | 🐛 11 | 🌐 Python | 📅 2026-07-19]
 
 * **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
   \[[code](https://github.com/ziplab/LongVLM) ⭐ 108 | 🐛 10 | 🌐 Python | 📅 2024-07-30]
@@ -1832,13 +1832,13 @@
 #### 🗓️ 2025
 
 * **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539)**
-  \[[code](https://github.com/Kevin-thu/StoryMem) ⭐ 784 | 🐛 7 | 🌐 Python | 📅 2026-07-22]
+  \[[code](https://github.com/Kevin-thu/StoryMem) ⭐ 783 | 🐛 7 | 🌐 Python | 📅 2026-07-22]
 
 * **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)**
   \[[code](https://github.com/stdstu12/YUME) ⭐ 691 | 🐛 18 | 🌐 Python | 📅 2026-01-14]
 
 * **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699)**
-  \[[code](https://github.com/KlingTeam/MemFlow) ⭐ 228 | 🐛 4 | 🌐 Python | 📅 2025-12-29]
+  \[[code](https://github.com/KlingTeam/MemFlow) ⭐ 227 | 🐛 4 | 🌐 Python | 📅 2025-12-29]
 
 * **[VideoRAG: Retrieval-Augmented Generation over Video Corpus](http://arxiv.org/abs/2501.05874)**
   \[[code](https://github.com/starsuzi/VideoRAG) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2025-03-17]
@@ -1867,7 +1867,7 @@
 
 * **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)**
   (The DeepSeek **Engram** Paper)
-  \[[code](https://github.com/deepseek-ai/Engram/) ⭐ 4,846 | 🐛 24 | 🌐 Python | 📅 2026-01-14]
+  \[[code](https://github.com/deepseek-ai/Engram/) ⭐ 4,848 | 🐛 26 | 🌐 Python | 📅 2026-01-14]
   * **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/2601.22203)**
     \[[code](https://github.com/zhejianglab/Gengram/) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-03-17]
   * [Pooling Engram Conditional Memory in Large Language Models using CXL](https://arxiv.org/abs/2603.10087)
@@ -1877,17 +1877,17 @@
   \[[code](https://github.com/EverMind-AI/MSA) ⭐ 3,520 | 🐛 4 | 🌐 Python | 📅 2026-05-06]
 
 * **[MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825)**
-  \[[code](https://github.com/MemTensor/MemT-1.0) ⭐ 608 | 🐛 8 | 🌐 Python | 📅 2026-11-20]
+  \[[code](https://github.com/MemTensor/MemT-1.0) ⭐ 611 | 🐛 8 | 🌐 Python | 📅 2026-11-20]
   \[[model](https://huggingface.co/collections/MemTensor/memt-1)]
   * **[Metis: Memory Foundation Model](https://arxiv.org/abs/2607.26760)**
     \[[code](https://github.com/MemTensor/Metis) ⭐ 183 | 🐛 2 | 🌐 Python | 📅 2026-08-07]
     \[[model](https://huggingface.co/collections/IAAR-Shanghai/metis)]
 
+* **[MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)**
+  \[[code](https://github.com/arunv3rma/MeMo) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
+
 * **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639)**
   \[[code](https://github.com/Infini-AI-Lab/STEM) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2026-05-07]
-
-* **[MeMo: Memory as a Model](https://arxiv.org/abs/2605.15156)**
-  \[[code](https://github.com/arunv3rma/MeMo) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
 
 * **[δ-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)**
   \[[code](https://github.com/MindLab-Research/delta-Mem) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-05-27]
@@ -1899,7 +1899,7 @@
   \[[code](https://github.com/ningding-o/MeKi) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2026-03-05]
 
 * **[Language Model Memory and Memory Models for Language](https://arxiv.org/abs/2602.13466)**
-  \[[code](https://github.com/blbadger/memorymodels) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-25]
+  \[[code](https://github.com/blbadger/memorymodels) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-26]
 
 * [Shallow Encoding Emits Deep Memories](https://arxiv.org/abs/2611.06084) (SEED)
   \[[proj](https://latent-voyager-seed.static.hf.space/index.html)]
@@ -1956,7 +1956,7 @@
 #### 🗓️ 2024
 
 * **[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)**
-  \[[code](https://github.com/zjunlp/EasyEdit) ⭐ 2,946 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07]
+  \[[code](https://github.com/zjunlp/EasyEdit) ⭐ 2,947 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-07]
 
 * **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
   \[[code](https://github.com/thunlp/InfLLM) ⭐ 406 | 🐛 20 | 🌐 Python | 📅 2024-04-20]
@@ -1982,7 +1982,7 @@
 #### 🗓️ 2023
 
 * **[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)**
-  \[[code](https://github.com/vllm-project/vllm) ⭐ 97,612 | 🐛 11,233 | 🌐 Python | 📅 2026-11-26]
+  \[[code](https://github.com/vllm-project/vllm) ⭐ 97,686 | 🐛 11,232 | 🌐 Python | 📅 2026-11-27]
 
 * **[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)**
   \[[code](https://github.com/Victorwz/LongMem) ⭐ 832 | 🐛 12 | 🌐 Python | 📅 2024-03-30]
@@ -1994,16 +1994,16 @@
 #### 🗓️ 2026
 
 * **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)**
-  \[[code](https://github.com/microsoft/SkillOpt) ⭐ 19,292 | 🐛 99 | 🌐 Python | 📅 2026-11-23]
+  \[[code](https://github.com/microsoft/SkillOpt) ⭐ 19,314 | 🐛 103 | 🌐 Python | 📅 2026-11-23]
 
 * **[OpenClaw-RL: Train Any Agent Simply by Talking](https://arxiv.org/abs/2603.10165)**
-  \[[code](https://github.com/Gen-Verse/OpenClaw-RL) ⭐ 5,752 | 🐛 77 | 🌐 Python | 📅 2026-05-23]
+  \[[code](https://github.com/Gen-Verse/OpenClaw-RL) ⭐ 5,753 | 🐛 77 | 🌐 Python | 📅 2026-05-23]
 
 * **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
   \[[code](https://github.com/Agent-on-the-Fly/Memento) ⭐ 2,716 | 🐛 14 | 🌐 Python | 📅 2025-10-05]
 
 * **[EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108)**
-  \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/EvoTrainer) ⭐ 1,628 | 🐛 85 | 🌐 Python | 📅 2026-10-19]
+  \[[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/EvoTrainer) ⭐ 1,628 | 🐛 86 | 🌐 Python | 📅 2026-10-19]
 
 * **[Memento-Skills: Let Agents Design Agents](https://arxiv.org/abs/2603.18743)**
   \[[code](https://github.com/Memento-Teams/Memento-Skills) ⭐ 1,594 | 🐛 6 | 🌐 Python | 📅 2026-08-17]
@@ -2019,7 +2019,7 @@
   \[[code](https://github.com/ViktorAxelsen/MemSkill) ⭐ 609 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
 
 * **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473)**
-  \[[code](https://github.com/InternScience/MLEvolve) ⭐ 472 | 🐛 1 | 🌐 Python | 📅 2026-11-16]
+  \[[code](https://github.com/InternScience/MLEvolve) ⭐ 473 | 🐛 1 | 🌐 Python | 📅 2026-11-16]
 
 * **[SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.14777)**
   \[[code](https://github.com/jinyangwu/SEED) ⭐ 312 | 🐛 2 | 🌐 Python | 📅 2026-07-17]
@@ -2035,7 +2035,7 @@
   \[[code](https://github.com/AweAI-Team/AiScientist) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 
 * **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
-  \[[code](https://github.com/Miracle1207/ProcMEM) ⭐ 41 | 🐛 5 | 🌐 Python | 📅 2026-05-11]
+  \[[code](https://github.com/Miracle1207/ProcMEM) ⭐ 42 | 🐛 5 | 🌐 Python | 📅 2026-05-11]
 
 * **[Value as Memory: Online Value-Guided Post-training for General Robot Policies](https://arxiv.org/abs/2610.22368)**
   \[[code](https://github.com/Virlus/VaM) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-10-16]
@@ -2091,13 +2091,13 @@
 #### 🗓️ 2025
 
 * **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696)**
-  \[[code](https://github.com/agentscope-ai/ReMe) ⭐ 3,848 | 🐛 54 | 🌐 Python | 📅 2026-11-26]
+  \[[code](https://github.com/agentscope-ai/ReMe) ⭐ 3,860 | 🐛 55 | 🌐 Python | 📅 2026-11-26]
 
 * **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
   \[[code](https://github.com/Agent-on-the-Fly/Memento) ⭐ 2,716 | 🐛 14 | 🌐 Python | 📅 2025-10-05]
 
 * **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**
-  \[[code](https://github.com/modelscope/AgentEvolver) ⭐ 1,595 | 🐛 25 | 🌐 Python | 📅 2026-04-01]
+  \[[code](https://github.com/modelscope/AgentEvolver) ⭐ 1,593 | 🐛 25 | 🌐 Python | 📅 2026-04-01]
 
 * **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
   \[[code](https://github.com/BytedTsinghua-SIA/MemAgent) ⭐ 1,119 | 🐛 21 | 🌐 Python | 📅 2026-05-12]
@@ -2109,7 +2109,7 @@
   \[[code](https://github.com/test-time-training/e2e) ⭐ 722 | 🐛 1 | 🌐 Python | 📅 2026-02-15]
 
 * **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
-  \[[code](https://github.com/google-research/reasoning-bank) ⭐ 649 | 🐛 33 | 🌐 Python | 📅 2026-08-05]
+  \[[code](https://github.com/google-research/reasoning-bank) ⭐ 650 | 🐛 33 | 🌐 Python | 📅 2026-08-05]
 
 * **[ML-Master: Towards AI-for-AI via Integration of Exploration and Reasoning](https://arxiv.org/abs/2506.16499)**
   \[[code](https://github.com/sjtu-sai-agents/ML-Master) ⭐ 458 | 🐛 7 | 🌐 Python | 📅 2026-10-26]
@@ -2121,16 +2121,16 @@
   \[[code](https://github.com/bingreeky/MemEvolve) ⭐ 291 | 🐛 3 | 🌐 Python | 📅 2026-05-05]
 
 * **[Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911)**
-  \[[code](https://github.com/wangyu-ustc/Mem-alpha) ⭐ 228 | 🐛 13 | 🌐 Python | 📅 2025-12-25]
+  \[[code](https://github.com/wangyu-ustc/Mem-alpha) ⭐ 229 | 🐛 13 | 🌐 Python | 📅 2025-12-25]
 
 * **[EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle](https://arxiv.org/abs/2510.16079)**
-  \[[code](https://github.com/KnowledgeXLab/EvolveR) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2026-05-08]
+  \[[code](https://github.com/KnowledgeXLab/EvolveR) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2026-05-08]
 
 * **[Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks](https://arxiv.org/abs/2510.08002)**
   \[[code](https://github.com/KnowledgeXLab/MUSE) ⭐ 114 | 🐛 2 | 🌐 Python | 📅 2026-07-20]
 
 * **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
-  \[[code](https://github.com/GenSI-THUAIR/FLEX) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2026-06-09]
+  \[[code](https://github.com/GenSI-THUAIR/FLEX) ⭐ 85 | 🐛 2 | 🌐 Python | 📅 2026-06-09]
 
 * **[Goal-Directed Search Outperforms Goal-Agnostic Memory Compression in Long-Context Memory Tasks](https://arxiv.org/abs/2511.21726)**
   \[[code](https://arxiv.org/abs/2511.21726)]
@@ -2165,10 +2165,10 @@
 #### 🗓️ 2026
 
 * **[LCM: Lossless Context Management](https://papers.voltropy.com/LCM)**
-  \[[code](https://github.com/Martian-Engineering/lossless-claw) ⭐ 4,924 | 🐛 269 | 🌐 TypeScript | 📅 2026-11-25]
+  \[[code](https://github.com/Martian-Engineering/lossless-claw) ⭐ 4,924 | 🐛 272 | 🌐 TypeScript | 📅 2026-11-25]
 
 * **[REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287)**
-  \[[code](https://github.com/fudan-generative-vision/Remory) ⭐ 826 | 🐛 2 | 🌐 Python | 📅 2026-11-25]
+  \[[code](https://github.com/fudan-generative-vision/Remory) ⭐ 825 | 🐛 2 | 🌐 Python | 📅 2026-11-25]
 
 * **[Code as Agent Harness](https://arxiv.org/abs/2605.18747)**
   \[[code](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) ⭐ 785 | 🐛 15 | 📅 2026-05-20]
@@ -2200,7 +2200,7 @@
 #### 🗓️ 2025
 
 * **[AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699)**
-  \[[code](https://github.com/Alibaba-NLP/DeepResearch) ⭐ 20,183 | 🐛 102 | 🌐 Python | 📅 2026-02-27]
+  \[[code](https://github.com/Alibaba-NLP/DeepResearch) ⭐ 20,189 | 🐛 102 | 🌐 Python | 📅 2026-02-27]
 
 * **[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**
   \[[code](https://github.com/AIGNE-io/aigne-framework) ⭐ 368 | 🐛 18 | 🌐 TypeScript | 📅 2026-01-25]
@@ -2257,12 +2257,12 @@
 ## 🔒 Memory Security & Defense
 
 * **[Agent Memory Guard](https://owasp.org/www-project-agent-memory-guard/)**
-  \[[code](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 213 | 🐛 28 | 🌐 Python | 📅 2026-11-26]
+  \[[code](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 214 | 🐛 29 | 🌐 Python | 📅 2026-11-27]
   *OWASP runtime defense layer that screens agent memory writes for poisoning: multi-layer validation with semantic anomaly detection, entropy scoring, and provenance verification.*
 
-* **[inspeximus (formerly mnemo) poisoning probes](https://github.com/DanceNitra/agora/tree/main/research/probes) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-25**
-  \[[attack](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_defense_layer_probe.py) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-25]
-  \[[defense](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_gate_defense_probe.py) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-25]
+* **[inspeximus (formerly mnemo) poisoning probes](https://github.com/DanceNitra/agora/tree/main/research/probes) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-26**
+  \[[attack](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_defense_layer_probe.py) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-26]
+  \[[defense](https://github.com/DanceNitra/agora/blob/main/research/probes/memory_gate_defense_probe.py) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-26]
   *Runnable probe scripts demonstrating that provenance written into a memory record is forgeable, and that a retrieval-time corroboration gate raises the cost of memory-poisoning attacks.*
 
 * **[Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees](https://arxiv.org/abs/2606.24322)** (TMA-NM)
@@ -2389,4 +2389,4 @@ Made with ❤️ by [Bloo-Mind AI Ltd](https://www.bloo-mind.ai/) and the Ubiqui
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
